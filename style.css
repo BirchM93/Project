@@ -1,0 +1,223 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+*{
+    padding: 0;
+    box-sizing: border-box;  
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  
+}
+
+header{
+    min-height: 100px;
+    margin: 0;
+	background-color:seashell;
+	
+}
+
+#head{
+    color: black;
+    font-size: 2rem;
+    float: left;
+    font-family: sans-serif;
+    font-weight: 800;
+    margin-left: 2%;
+
+}
+
+#head span{
+    color: red;
+}
+
+nav{
+    float: right;  
+    padding: 15px 15px;
+
+}
+
+nav li{
+    display: inline;
+    padding: 1.7rem;
+    
+}
+
+nav li a{
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+nav li a:hover{
+    color: #c11325;  
+}
+
+img{
+    width: 100%;
+}
+
+
+
+
+section{
+    margin:  5rem 5rem;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+b{
+    padding: 1rem;
+    background-color: #c11325;
+    color: seashell;
+    border-radius: 10px;
+}
+
+.box{
+    padding: 1rem;
+    background-color:seashell;
+}
+
+
+
+.btn{
+    background-color: #c11325;
+    color: seashell;
+    padding: 0.7rem 1rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+
+.btn:hover{
+    background-color: gold;
+    color: #000;
+    font-size: 1.2rem;
+}
+
+
+.contact{
+	margin: 0px;
+	background-color: lightgrey;
+}
+
+.contact .content{
+	-webkit-display: flex;
+	display: flex;
+}
+
+.contact .content .c-box{
+	flex:0 0 50%;
+	max-width: 100%;
+	padding: 15px;
+}
+
+.contact .content .form input,
+.contact .content .form textarea{
+ height: 45px;
+ width: 100%;
+ padding:1rem;
+ margin-bottom: 25px;
+ background-color: transparent;
+ border:1px solid darkslategray;
+ font-family: sans-serif;
+ color:darkslategray;
+}
+.contact .content .form input:focus,
+.contact .content .form textarea:focus{
+ outline: none;
+ font-size: 15px;
+}
+.contact .content .form input::placeholder,
+.contact .content .form textarea::placeholder{
+	color:black;
+    font-size: 15px;
+}
+.contact .content .form textarea{
+	height: 100px;
+
+}
+
+.contact .content .form button{
+	outline: none;
+	box-shadow: none;
+	height: 45px;
+	padding:0px 50px;
+	border:1px solid transparent;
+	background-color: #c11325;
+	color:#ffffff;
+	font-size: 15px;
+	transition: all .5s ease;
+	cursor: pointer;
+}
+.contact .content .form button:hover{
+	
+	color:gold; 
+    border-color:#ffffff;
+}
+
+.contact .content .text h2{
+	font-size: 30px;
+    font-weight: 500;
+    color: #c11325;
+    padding: 0px 0px 20px;
+}
+
+.contact .content .text .info p{
+	display: block;
+	margin-bottom: 15px;
+	color: black;
+	font-size: 15px;
+	letter-spacing: 1px;
+	position: relative;
+	padding-left: 40px;
+	font-family: sans-serif;
+}
+
+.contact .content .text .social {
+	padding-top: 30px;
+}
+.contact .content .text .social a{
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	text-align: center;
+	background-color: #c11325;
+    text-decoration: none;	
+    display: inline-block;
+    margin-right: 10px;
+    transition: all .5s ease;
+    border:1px solid transparent;
+} 
+
+.contact .content .text .social a:hover{
+	background-color: gold;
+    border-color: #ffffff;
+}
+
+.contact .content .text .social a i {
+	color:#ffffff;
+	font-size: 20px;
+}
+
+footer{
+    background-color: lightgray;
+	padding-top: 100px;
+	font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
