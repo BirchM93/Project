@@ -69,7 +69,7 @@ nav li a:hover{
     width: 100%;
     min-height: 100vh;
     padding: 0 100px;
-    background: lightgray;
+    background: #c11325;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -88,23 +88,6 @@ nav li a:hover{
     color: black;
     font-size: 4rem;
     
-}
-
-.banner .textBox a{
-    position: relative; 
-    display: inline-block;
-    background: #c11325;
-    color: #fff;
-    padding: 15px 25px;
-    text-decoration: none;
-    font-size: 1.1em;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-weight: 500;
-}
-
-.banner .textBox a:hover{
-    color: gold;
 }
 
 
@@ -130,11 +113,10 @@ nav li a:hover{
 
 .about{
 	padding:80px 0px;
-	background-color:#ffffff;
+	background-color: seashell;
 }
 
 .about .content{ 
-
  display: flex;
 }
 .about .content .box{
@@ -145,12 +127,13 @@ nav li a:hover{
 .about .content .box .inner{
 	background-color: seashell;
 }
-.about .content .box:nth-child(2) .inner{
-	background-color: #c11325;
-}
+
 .about .content .box .inner .img img{
 	width: 100%;
+
 }
+
+
 .about .content .box .inner .text{
 	padding:30px;
 }
@@ -180,6 +163,7 @@ nav li a:hover{
     display: flex;
     justify-content: space-between;
     text-align: center;
+    
    
     
 }
