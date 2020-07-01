@@ -61,6 +61,19 @@ nav li a:hover{
     color: #c11325;  
 }
 
+nav li a .btn{
+    background-color: #c11325;
+    color: seashell;
+    padding: 0.4rem 1rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+   
+
+}
+
+
+
 
 /*Banner*/
 
@@ -441,6 +454,7 @@ nav li a:hover{
 .contact .content .times h3{
     padding-left: 40px;
     padding-top: 30px;
+    font-weight: 800;
     
 }
 
