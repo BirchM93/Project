@@ -438,6 +438,16 @@ nav li a:hover{
 	font-size: 20px;
 }
 
+.contact .content .times h3{
+    padding-left: 40px;
+    padding-top: 30px;
+    
+}
+
+.contact .content .times p{
+    padding-left: 40px;
+}
+
 
 /*Footer*/
 
