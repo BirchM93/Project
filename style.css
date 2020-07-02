@@ -30,7 +30,7 @@ header{
     font-size: 2rem;
     float: left;
     font-family: sans-serif;
-    font-weight: 800;
+    font-weight: 300;
     margin-left: 2%;
 
 }
@@ -75,107 +75,7 @@ nav li a .btn:hover{
     color: gold;
 }
 
-/*Login Form*/
 
-.loginbox{
-    width: 320px;
-    height: 420px;
-    background: #000;
-    color:seashell;
-    top: 50%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50% , -50%);
-    box-sizing: border-box;
-    padding: 70px 30px;
-}
-
-.loginbox .avatar{
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    position: absolute;
-    top: -50px;
-    left: calc(50% - 50px);
-}
-
-.loginbox h1{
-    margin: 0;
-    padding: 0 0 20px;
-    text-align: center;
-    font-size: 20px;
-}
-
-.loginbox p{
-    margin: 0;
-    padding: 0;
-    font-weight: bold;
-}
-
-.loginbox input{
-    width: 100%;
-    margin-bottom: 20px;
-}
-
-.loginbox input[type="text"], input[type="password"]{
-    border: none;
-    border-bottom: 1px solid seashell;
-    background: transparent;
-    outline: none;
-    height: 40px;
-    color: seashell;
-    font-size: 15px;
-}
-
-.loginbox input[type="submit"]{
-    border: none;
-    outline: none;
-    height: 40px;
-    background: #fb2525;
-    color: seashell;
-    font-size: 20px;
-    border-radius: 20px;
-}
-
-
-.loginbox input[type="submit"]:hover{
-    cursor: pointer;
-    background: gold;
-    color: black;
-}
-
-.loginbox a{
-    font-size: 15px;
-    color: darkgray;
-    text-decoration: none;
-    line-height: 20px;
-}
-
-.loginbox a:hover{
-    color: gold;
-}
-
-.home nav{
-    float: left;
-    padding: 15px 15px;
-}
-
-.home nav li{
-    display: inline;
-    padding: 1.7rem;
-    
-}
-
-.home nav li a{
-    color: black;
-    text-decoration: none;
-    font-family: sans-serif;
-    font-size: 30px;
-}
-
-.home nav li a:hover{
-    color: #c11325;  
-}
 
 /*Banner*/
 
@@ -210,7 +110,7 @@ nav li a .btn:hover{
 }
 
 .banner .textBox h2{
-    font-weight: 800;
+    font-weight: 500;
     color: black;
     font-size: 3em;
     
@@ -562,6 +462,108 @@ nav li a .btn:hover{
 
 .contact .content .times p{
     padding-left: 40px;
+}
+
+/*Login Form*/
+
+.loginbox{
+    width: 320px;
+    height: 420px;
+    background: #000;
+    color:seashell;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50% , -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+
+.loginbox .avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
+.loginbox h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.loginbox p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.loginbox input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.loginbox input[type="text"], input[type="password"]{
+    border: none;
+    border-bottom: 1px solid seashell;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: seashell;
+    font-size: 15px;
+}
+
+.loginbox input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #fb2525;
+    color: seashell;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+
+.loginbox input[type="submit"]:hover{
+    cursor: pointer;
+    background: gold;
+    color: black;
+}
+
+.loginbox a{
+    font-size: 15px;
+    color: darkgray;
+    text-decoration: none;
+    line-height: 20px;
+}
+
+.loginbox a:hover{
+    color: gold;
+}
+
+.home nav{
+    float: left;
+    padding: 15px 15px;
+}
+
+.home nav li{
+    display: inline;
+    padding: 1.7rem;
+    
+}
+
+.home nav li a{
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.home nav li a:hover{
+    color: #c11325;  
 }
 
 
