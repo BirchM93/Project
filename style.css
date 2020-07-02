@@ -417,12 +417,9 @@ nav li a .btn:hover{
 	font-family: sans-serif;
 }
 
-.contact .content .text .info i{
-    display: block;
-	margin-bottom: 15px;
-	color: black;
-	position: relative;
-	padding-left: 40px;
+.contact .content .text .info p i{
+    display: inline-block;
+    margin-right: 10px;
 }
 
 .contact .content .text .social {

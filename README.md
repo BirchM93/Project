@@ -10,9 +10,9 @@ Users can get in touch by clicking on the Contact Us section and filling out a f
 
 There is a fitness class schedule by clicking on the classes section.
 
-I added a few hover features on this site on the nav bar list items, the Join Now buttons in the Price section, the social media icons and the Send Message button in the Contact Us section
+I added a few hover features on this site including  the login buttons and join now buttons
 
-REFERENCES
+I added a seperate page using a login button  where existing members can login using their username and password and new users can create an account 
 
 https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
 
@@ -22,6 +22,10 @@ https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s
 
 https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s 
 
+https://www.youtube.com/watch?v=OWNxUVnY3pg
+
 https://www.anytimefitness.com/training/ (Services Descriptions)
 
 https://www.pexels.com/ (3 Services images)
+
+https://www.flaticon.com/ (User Login image)
