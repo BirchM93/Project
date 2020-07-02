@@ -2,7 +2,7 @@ Project Example Idea 2: Build a website for a gym.
 
 Consists of the gym name with a navbar consisting of all the sections. (Home, Services, Prices, Classes, Gallery and Contact Us)
 
-I added a banner with an image and a header consisting of a small paragraph for the Home page.
+I added a banner with an image and a header consisting of a small introductory paragraph for the Home page.
 
 User can join up by clicking on the prices section and it gives you 3 options.
 
@@ -10,7 +10,7 @@ Users can get in touch by clicking on the Contact Us section and filling out a f
 
 There is a fitness class schedule by clicking on the classes section.
 
-I added a few hover features on this site including  the login buttons and join now buttons
+I added a few hover features on this site including the login buttons and join now buttons
 
 I added a seperate page using a login button  where existing members can login using their username and password and new users can create an account 
 
@@ -29,3 +29,5 @@ https://www.anytimefitness.com/training/ (Services Descriptions)
 https://www.pexels.com/ (3 Services images)
 
 https://www.flaticon.com/ (User Login image)
+
+https://fontawesome.com/icons?d=gallery

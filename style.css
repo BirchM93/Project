@@ -490,6 +490,7 @@ nav li a .btn:hover{
     padding: 0 0 20px;
     text-align: center;
     font-size: 20px;
+    font-weight: 300;
 }
 
 .loginbox p{
