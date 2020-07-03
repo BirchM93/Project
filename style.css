@@ -35,7 +35,7 @@ header{
 }
 
 #head span {
-    color: red;
+    color: #fb2525;
 }
 
 nav{
@@ -95,7 +95,7 @@ nav li a .btn:hover{
     left: 1000px;
     width: 400px;
     height: 100%;
-    background: red;
+    background: #fb2525;
     transform-origin: top;
     transform: skewX(-30deg);
     
@@ -616,12 +616,6 @@ footer{
 }
 }
 
-/*if screen width is less than or equal to 550px then*/
-@media(max-width: 550px){
-  .banner h2{
-      font-size: 30px;
-  }
-}
 
 
 
