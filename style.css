@@ -577,6 +577,11 @@ footer{
 /*if screen width is less than or equal to 767px then*/
 @media(max-width: 767px){
 
+
+.banner .textBox h2{
+    font-size: 40px;
+}
+
 .services .content{
 	flex-wrap: wrap;
 }
@@ -600,6 +605,7 @@ footer{
     flex: 0 0 100%;
     max-width: 100%;
 }
+
 .price .plan{
 	flex-wrap: wrap;
 }
