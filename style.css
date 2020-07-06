@@ -36,8 +36,8 @@ header .container{
     font-size: 2rem;
     float: left;
     font-family: sans-serif;
-    font-weight: 300;
-    margin-left: 2%;
+    font-weight: 600;
+    margin-left: 15%;
 
 }
 
@@ -45,29 +45,29 @@ header .container{
     color: #fb2525;
 }
 
-nav{
+header .nav{
     float: right;  
     padding: 15px 15px;
 }
 
-nav li{
+header .nav li{
     display: inline;
     padding: 1.7rem;
     
 }
 
-nav li a{
+header .nav li a{
     color: black;
     text-decoration: none;
     font-family: sans-serif;
     font-weight: 100;
 }
 
-nav li a:hover{
+header .nav li a:hover{
     color: #c11325;  
 }
 
-nav li a .btn{
+header .nav li a .btn{
     background-color: #c11325;
     color: seashell;
     padding: 0.4rem 1rem;
@@ -77,10 +77,9 @@ nav li a .btn{
 
 }
 
-nav li a .btn:hover{
+ header .nav li a .btn:hover{
     color: gold;
 }
-
 
 
 /*Banner*/
@@ -191,64 +190,76 @@ nav li a .btn:hover{
 }
 
 /*Price Section*/
-
-.price {
-    margin:  5rem 5rem;
-    display: flex;
-    justify-content: space-between;
-    text-align: center;
-    
-     
+.price-package{
+	padding: 80px 0px;
+	background-color: #ffffff;
 }
-
-#price h2{
-    font-size: 30px;
+.price-package h2{
+	font-size: 30px;
 	font-weight: 500;
 	color:#000000;
-    margin-left: 40vw;
-    padding: 30px;
+	padding: 0px 0px 20px;
+	text-align: center;
 }
 
-.price .plan b{
-    padding: 1rem;
-    background-color: #c11325;
-    color: seashell;
+.price-package .content{
+	display: flex;
+}
+.price-package .content .box{
+	flex:0 0 33.33%;
+	max-width: 33.33%;
+	padding: 15px;
+}
+.price-package .content .box .inner{
+	background-color: #f0f0f0;
+}
+.price-package .content .box .inner .price-tag{
+	padding: 15px;
+	font-size: 20px;
+	background-color: #c11325;
+	color: seashell;
     border-radius: 10px;
-    font-weight: 400;
+	text-align: center;
+	font-weight: 200;
 }
-
-.price .box h3{
-    font-weight: 350;
-    font-family: sans-serif;  
+.price-package .content .box .inner .text{
+	padding:30px 15px;
+	text-align: center;
 }
-
-.price .box p{
-    font-family: sans-serif;
-    font-weight: 200;
+.price-package .content .box .inner .text h3{
+	font-size: 24px;
+	color:#222222;
+	margin:0;
+	padding:0px 0px 20px;
+	font-weight: bold;
 }
-
-
-.price .box{
-    padding: 1rem;
-    background-color:seashell;
-
+.price-package .content .box .inner .text p{
+ font-size: 15px;
+ line-height: 20px;
+ color:#222222;
+ margin:0;
+ text-align: center;
+ padding:0 0 5px;
+ font-family: 'Open-sans', sans-serif;	
 }
-
-.price .box .btn{
+.price-package .content .box .inner .text .btn{
+    padding: 8px 30px;
     background-color: #c11325;
-    color: seashell;
-    padding: 0.7rem 1rem;
-    border: none;
-    border-radius: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid transparent;
     cursor: pointer;
-    font-family: sans-serif;
-    
+    transition: all .5s ease;
+    margin-top: 10px;
 }
-
-.price .box .btn:hover{
-    color:gold;
+.price-package .content .box .inner .text .btn:hover{
+	cursor: pointer;
+    background-color: gold;
+    color: black;
     font-size: 1rem;
 }
+
 
 /*Class Schedule Section*/
 .schedule{
@@ -581,9 +592,14 @@ footer{
 
 /*Responsive*/
 
+/*if screen width is less than or equal to 991px then*/
+@media(max-width: 991px){
+   .home{
+   	background-position: center;
+   }
+
 /*if screen width is less than or equal to 767px then*/
 @media(max-width: 767px){
-
 
 .banner .textBox h2{
     font-size: 40px;
@@ -596,7 +612,6 @@ footer{
     flex: 0 0 100%;
     max-width: 100%;
 }
-
 .schedule .content{
 	flex-wrap: wrap;
 }
@@ -613,10 +628,10 @@ footer{
     max-width: 100%;
 }
 
-.price .plan{
+.price-package .content{
 	flex-wrap: wrap;
 }
-.price .plan .box {
+.price-package .content .box {
     flex: 0 0 100%;
     max-width: 100%;
 }
