@@ -24,8 +24,15 @@ header{
 	
 }
 
-#head {
+header .container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+ header .logo a{
     color: black;
+    text-decoration: none;
     font-size: 2rem;
     float: left;
     font-family: sans-serif;
@@ -34,7 +41,7 @@ header{
 
 }
 
-#head span {
+ header .logo a span{
     color: #fb2525;
 }
 
