@@ -592,14 +592,43 @@ footer{
 
 /*Responsive*/
 
+@media (max-width: 600px){
+header .toggle-button{
+        display: flex;
+    }
+
+header .nav li{
+    display: none;
+}
+
+}
+
 /*if screen width is less than or equal to 991px then*/
 @media(max-width: 991px){
-   .home{
-   	background-position: center;
-   }
 
-/*if screen width is less than or equal to 767px then*/
-@media(max-width: 767px){
+.home{
+    background-position: center;
+}
+
+header{
+    padding: 20px 50px;
+}
+
+.banner{
+    padding: 150px 50px 0;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.banner:before{
+    width: 300px;
+    transform: skewX(-25deg) translateX(50%);
+}
+
+.banner .textBox{
+    max-width: 100%;
+}
+
 
 .banner .textBox h2{
     font-size: 40px;
