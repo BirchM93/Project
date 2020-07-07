@@ -11,26 +11,24 @@ body{
   
 }
 
-/*Header*/
+/*Navigation Bar*/
 
-header{
+.navbar{
     position: fixed;
     top: 0;
     width: 100%;
     z-index:3;
-    min-height: 100px;
+    min-height: 80px;;
     margin: 0;
 	background-color:seashell;
+    display: flex;
+	justify-content: space-between;
+	align-items: center;
 	
 }
 
-header .container{
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-}
 
- header .logo a{
+  .logo a{
     color: black;
     text-decoration: none;
     font-size: 2rem;
@@ -41,33 +39,32 @@ header .container{
 
 }
 
- header .logo a span{
+  .logo a span{
     color: #fb2525;
 }
 
-header .nav{
-    float: right;  
-    padding: 15px 15px;
+ .navbar-links{
+    height: 100%;
 }
 
-header .nav li{
+ .navbar-links li{
     display: inline;
     padding: 1.7rem;
     
 }
 
-header .nav li a{
+ .navbar-links li a{
     color: black;
     text-decoration: none;
     font-family: sans-serif;
     font-weight: 100;
 }
 
-header .nav li a:hover{
+ .navbar-links li a:hover{
     color: #c11325;  
 }
 
-header .nav li a .btn{
+ .navbar-links li a .btn{
     background-color: #c11325;
     color: seashell;
     padding: 0.4rem 1rem;
@@ -77,9 +74,11 @@ header .nav li a .btn{
 
 }
 
- header .nav li a .btn:hover{
+  .navbar-links li a .btn:hover{
     color: gold;
 }
+
+ 
 
 
 /*Banner*/
@@ -592,14 +591,30 @@ footer{
 
 /*Responsive*/
 
-@media (max-width: 600px){
-header .toggle-button{
-        display: flex;
-    }
+@media (max-width: 800px) {
 
-header .nav li{
-    display: none;
+
+.navbar{
+    flex-direction: column;
+    align-items: flex-start;   
 }
+
+.navbar-links li a{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
 
@@ -610,9 +625,7 @@ header .nav li{
     background-position: center;
 }
 
-header{
-    padding: 20px 50px;
-}
+
 
 .banner{
     padding: 150px 50px 0;
