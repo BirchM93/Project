@@ -14,6 +14,8 @@ I added a few hover features on this site including the login buttons and join n
 
 I added a seperate page using a login button  where existing members can login using their username and password and new users can create an account 
 
+I created a hamburger menu for the navbar which will be visible in Responsive view of less than or equal to 800px.
+
 https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
 
 https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s
@@ -23,6 +25,8 @@ https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s
 https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s 
 
 https://www.youtube.com/watch?v=OWNxUVnY3pg
+
+https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s
 
 https://www.anytimefitness.com/training/ (Services Descriptions)
 
