@@ -15,11 +15,9 @@ body{
 
 .navbar{
     position: fixed;
-    top: 0;
     width: 100%;
     z-index:3;
     min-height: 80px;;
-    margin: 0;
 	background-color:seashell;
     display: flex;
 	justify-content: space-between;
@@ -31,11 +29,10 @@ body{
   .logo a{
     color: black;
     text-decoration: none;
-    font-size: 2rem;
-    float: left;
-    font-family: sans-serif;
     font-weight: 600;
-    margin-left: 15%;
+    font-size: 2rem;
+    margin: 2rem;
+   
 
 }
 
@@ -43,20 +40,25 @@ body{
     color: #fb2525;
 }
 
- .navbar-links{
+.navbar-links ul{
+    margin: 0;
+    padding: 0;
+    display: flex
+}
+
+.navbar-links{
     height: 100%;
 }
 
  .navbar-links li{
-    display: inline;
-    padding: 1.7rem;
-    
+    list-style: none;;  
 }
 
  .navbar-links li a{
     color: black;
     text-decoration: none;
-    font-family: sans-serif;
+    display: block;
+    padding: 1.7rem;
     font-weight: 100;
 }
 
@@ -78,7 +80,23 @@ body{
     color: gold;
 }
 
- 
+.toggle-button {
+    position: absolute;
+    top: .75rem;
+    right: 1rem;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 20px;
+}
+
+.toggle-button .bar {
+    height: 3px;
+    width: 100%;
+    background-color: black;
+    border-radius: 10px;
+}
 
 
 /*Banner*/
@@ -591,35 +609,43 @@ footer{
 
 /*Responsive*/
 
+
 @media (max-width: 800px) {
-
-
-.navbar{
-    flex-direction: column;
-    align-items: flex-start;   
-}
-
-.navbar-links li a{
     
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
 
 /*if screen width is less than or equal to 991px then*/
 @media(max-width: 991px){
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .toggle-button {
+        display: flex;
+    }
+
+    .navbar-links {
+        display: none;
+        width: 100%;
+    }
+
+    .navbar-links ul {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .navbar-links ul li {
+        text-align: center;
+    }
+
+    .navbar-links ul li a {
+        padding: .5rem 1rem;
+    }
+
+    .navbar-links.active {
+        display: flex;
+    }
+}
 
 .home{
     background-position: center;
@@ -643,9 +669,6 @@ footer{
 }
 
 
-.banner .textBox h2{
-    font-size: 40px;
-}
 
 .services .content{
 	flex-wrap: wrap;
