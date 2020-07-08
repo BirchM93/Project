@@ -43,7 +43,7 @@ body{
 .navbar-links ul{
     margin: 0;
     padding: 0;
-    display: flex
+    display: flex;
 }
 
 .navbar-links{
@@ -609,10 +609,6 @@ footer{
 
 /*Responsive*/
 
-
-@media (max-width: 800px) {
-    
-
 /*if screen width is less than or equal to 991px then*/
 @media(max-width: 991px){
     .navbar {
@@ -645,74 +641,59 @@ footer{
     .navbar-links.active {
         display: flex;
     }
-}
-
-.home{
-    background-position: center;
-}
 
 
+    .banner{
+        padding: 150px 50px 0;
+        flex-direction: column;
+        overflow: hidden;
+    }
 
-.banner{
-    padding: 150px 50px 0;
-    flex-direction: column;
-    overflow: hidden;
-}
+    .banner:before{
+        width: 400px;
+        transform: skewX(-30deg);
+    }
 
-.banner:before{
-    width: 300px;
-    transform: skewX(-25deg) translateX(50%);
-}
-
-.banner .textBox{
-    max-width: 100%;
-}
-
+    .banner .textBox{
+        max-width: 100%;
+    }
 
 
-.services .content{
-	flex-wrap: wrap;
-}
-.services .content .box {
-    flex: 0 0 100%;
-    max-width: 100%;
-}
-.schedule .content{
-	flex-wrap: wrap;
-}
-.schedule .content .box{
-    flex: 0 0 100%;
-    max-width: 100%;	
-}
+    .services .content{
+	    flex-wrap: wrap;
+    }
+    .services .content .box {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .schedule .content{
+	    flex-wrap: wrap;
+    }
+    .schedule .content .box{
+        flex: 0 0 100%;
+        max-width: 100%;	
+    }
 
- .gallery .content{
-  flex-wrap: wrap;
- }
-.gallery .content .box {
-    flex: 0 0 100%;
-    max-width: 100%;
-}
+    .gallery .content{
+        flex-wrap: wrap;
+    }
+    .gallery .content .box {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
 
-.price-package .content{
-	flex-wrap: wrap;
-}
-.price-package .content .box {
-    flex: 0 0 100%;
-    max-width: 100%;
-}
-.contact .content{
-	flex-wrap: wrap;
-}
-.contact .content .box {
-    flex: 0 0 100%;
-    max-width: 100%;
-}
-}
-
-
-
-
-
-
-
-
+    .price-package .content{
+	   flex-wrap: wrap;
+    }
+    .price-package .content .box {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .contact .content{
+	    flex-wrap: wrap;
+    }
+    .contact .content .box {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    }
