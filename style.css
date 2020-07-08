@@ -63,11 +63,11 @@ body{
 }
 
  .navbar-links li a:hover{
-    color: #c11325;  
+    color: #fb2525;  
 }
 
  .navbar-links li a .btn{
-    background-color: #c11325;
+    background-color: #fb2525;
     color: seashell;
     padding: 0.4rem 1rem;
     border: none;
@@ -115,13 +115,14 @@ body{
 .banner:before{
     content: '';
     position: absolute;
-    left: 1000px;
+    right: 0;
+    top: 0;
     width: 400px;
     height: 100%;
     background: #fb2525;
     transform-origin: top;
     transform: skewX(-30deg);
-    
+    z-index: 1;
 }
 
 .banner .textBox{
@@ -132,9 +133,10 @@ body{
 }
 
 .banner .textBox h2{
-    font-weight: 500;
+    font-weight: 400;
     color: black;
-    font-size: 3em;
+    font-size: 2.5em;
+    
     
 }
 
@@ -154,15 +156,15 @@ body{
     justify-content: center;
     align-items: center;
     width: 50%;
-    
+    z-index: 2;
 }
 
 .banner .imgBox img{
-    position: absolute; left: 18%;
+    position: absolute; 
     bottom: 0;
     height: 90%;
-    padding-top: 40px;
-    
+    z-index: 10000;  
+    padding-top: 15px;
 }
 
 /*Services section*/
@@ -649,9 +651,14 @@ footer{
         overflow: hidden;
     }
 
+    .banner .textBox h2{
+        max-width: 100%;
+        flex-direction: column;
+    }
+
     .banner:before{
         width: 400px;
-        transform: skewX(-30deg);
+        transform: skewX(-25deg);
     }
 
     .banner .textBox{
