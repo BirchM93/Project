@@ -14,7 +14,7 @@ I added a few hover features on this site including the login buttons and join n
 
 I added a seperate page using a login button  where existing members can login using their username and password and new users can create an account 
 
-I created a hamburger menu for the navbar which will be visible in Responsive view of less than or equal to 800px.
+I created a hamburger menu for the navbar which will be visible in Responsive view using Javascrpit(script.js) of less than or equal to 800px. 
 
 https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
 
