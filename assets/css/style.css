@@ -1,706 +1,694 @@
-
-*{
-    padding: 0;
-    box-sizing: border-box;  
+* {
+  padding: 0;
+  box-sizing: border-box;
 }
 
-body{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-  
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 }
+
 
 /*Navigation Bar*/
 
-.navbar{
-    position: fixed;
-    width: 100%;
-    z-index:3;
-    min-height: 80px;;
-	background-color:seashell;
-    display: flex;
-	justify-content: space-between;
-	align-items: center;
-	
+.navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+  min-height: 80px;
+  ;
+  background-color: seashell;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-
-  .logo a{
-    color: black;
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 2rem;
-    margin: 2rem;
-   
-
+.logo a {
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 2rem;
+  margin: 2rem;
 }
 
-  .logo a span{
-    color: #fb2525;
+.logo a span {
+  color: #fb2525;
 }
 
-.navbar-links ul{
-    margin: 0;
-    padding: 0;
-    display: flex;
+.navbar-links ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
 }
 
-.navbar-links{
-    height: 100%;
+.navbar-links {
+  height: 100%;
 }
 
- .navbar-links li{
-    list-style: none;;  
+.navbar-links li {
+  list-style: none;
+  ;
 }
 
- .navbar-links li a{
-    color: black;
-    text-decoration: none;
-    display: block;
-    padding: 1.7rem;
-    font-weight: 100;
+.navbar-links li a {
+  color: black;
+  text-decoration: none;
+  display: block;
+  padding: 1.7rem;
+  font-weight: 100;
 }
 
- .navbar-links li a:hover{
-    color: #fb2525;  
+.navbar-links li a:hover {
+  color: #fb2525;
 }
 
- .navbar-links li a .btn{
-    background-color: #fb2525;
-    color: seashell;
-    padding: 0.4rem 1rem;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;   
-
+.navbar-links li a .btn {
+  background-color: #fb2525;
+  color: seashell;
+  padding: 0.4rem 1rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
-  .navbar-links li a .btn:hover{
-    color: gold;
+.navbar-links li a .btn:hover {
+  color: gold;
 }
 
 .toggle-button {
-    position: absolute;
-    top: .75rem;
-    right: 1rem;
-    display: none;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 30px;
-    height: 20px;
+  position: absolute;
+  top: .75rem;
+  right: 1rem;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 20px;
 }
 
 .toggle-button .bar {
-    height: 3px;
-    width: 100%;
-    background-color: black;
-    border-radius: 10px;
+  height: 3px;
+  width: 100%;
+  background-color: black;
+  border-radius: 10px;
 }
 
 
 /*Banner*/
 
-.banner{
-    position: relative; 
-    width: 100%;
-    min-height: 100vh;
-    padding: 0 100px;
-    background: lightgrey;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+.banner {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  padding: 0 100px;
+  background: lightgrey;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 
-.banner:before{
-    content: '';
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 400px;
-    height: 100%;
-    background: #fb2525;
-    transform-origin: top;
-    transform: skewX(-30deg);
-    z-index: 1;
+.banner:before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 400px;
+  height: 100%;
+  background: #fb2525;
+  transform-origin: top;
+  transform: skewX(-30deg);
+  z-index: 1;
 }
 
-.banner .textBox{
-    position: relative; right: 6%;
-    max-width: 600px;
-    z-index: 2;
-
+.banner .textBox {
+  position: relative;
+  right: 6%;
+  max-width: 600px;
+  z-index: 2;
 }
 
-.banner .textBox h2{
-    font-weight: 400;
-    color: black;
-    font-size: 2.5em;
-    
-    
+.banner .textBox h2 {
+  font-weight: 400;
+  color: black;
+  font-size: 2.5em;
 }
 
-.banner .textBox p{
-    color: black;
-    font-size: 1.1em;
-    margin: 5px 0 25px;
-    font-weight: 200;
-    
+.banner .textBox p {
+  color: black;
+  font-size: 1.1em;
+  margin: 5px 0 25px;
+  font-weight: 200;
 }
 
-
-.banner .imgBox{
-    position: relative;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 50%;
-    z-index: 2;
+.banner .imgBox {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  z-index: 2;
 }
 
-.banner .imgBox img{
-    position: absolute; 
-    bottom: 0;
-    height: 90%;
-    z-index: 10000;  
-    padding-top: 15px;
+.banner .imgBox img {
+  position: absolute;
+  bottom: 0;
+  height: 90%;
+  z-index: 10000;
+  padding-top: 15px;
 }
+
 
 /*Services section*/
 
-
-.services .content{ 
- display: flex;
- background-color: seashell;
- padding:80px 0px;
-}
-.services .content .box{
-	
-	padding:15px;
+.services .content {
+  display: flex;
+  background-color: seashell;
+  padding: 80px 0px;
 }
 
-.services .content .box .inner .img img{
-	width: 100%;
-
+.services .content .box {
+  padding: 15px;
 }
 
-
-.services .content .box .inner .text{
-	padding:30px;
+.services .content .box .inner .img img {
+  width: 100%;
 }
 
- .services .box .inner .text h4{
+.services .content .box .inner .text {
+  padding: 30px;
+}
+
+.services .box .inner .text h4 {
   font-size: 20px;
-  margin:0;
+  margin: 0;
   padding: 0px 0px 15px;
   font-weight: 700;
   color: darkslategray;
   text-transform: capitalize;
   text-align: center;
 }
- .services .content .box .inner .text p{
-	font-size: 15px;
-	line-height:20px;
-	color: darkslategray;
-	text-align: center;
-	margin:0;
-	font-family:  sans-serif;
+
+.services .content .box .inner .text p {
+  font-size: 15px;
+  line-height: 20px;
+  color: darkslategray;
+  text-align: center;
+  margin: 0;
+  font-family: sans-serif;
 }
+
 
 /*Price Section*/
-.price-package{
-	padding: 80px 0px;
-	background-color: #ffffff;
-}
-.price-package h2{
-	font-size: 30px;
-	font-weight: 500;
-	color:#000000;
-	padding: 0px 0px 20px;
-	text-align: center;
+
+.price-package {
+  padding: 80px 0px;
+  background-color: #ffffff;
 }
 
-.price-package .content{
-	display: flex;
+.price-package h2 {
+  font-size: 30px;
+  font-weight: 500;
+  color: #000000;
+  padding: 0px 0px 20px;
+  text-align: center;
 }
-.price-package .content .box{
-	flex:0 0 33.33%;
-	max-width: 33.33%;
-	padding: 15px;
+
+.price-package .content {
+  display: flex;
 }
-.price-package .content .box .inner{
-	background-color: #f0f0f0;
+
+.price-package .content .box {
+  flex: 0 0 33.33%;
+  max-width: 33.33%;
+  padding: 15px;
 }
-.price-package .content .box .inner .price-tag{
-	padding: 15px;
-	font-size: 20px;
-	background-color: #c11325;
-	color: seashell;
-    border-radius: 10px;
-	text-align: center;
-	font-weight: 200;
+
+.price-package .content .box .inner {
+  background-color: #f0f0f0;
 }
-.price-package .content .box .inner .text{
-	padding:30px 15px;
-	text-align: center;
+
+.price-package .content .box .inner .price-tag {
+  padding: 15px;
+  font-size: 20px;
+  background-color: #c11325;
+  color: seashell;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: 200;
 }
-.price-package .content .box .inner .text h3{
-	font-size: 24px;
-	color:#222222;
-	margin:0;
-	padding:0px 0px 20px;
-	font-weight: bold;
+
+.price-package .content .box .inner .text {
+  padding: 30px 15px;
+  text-align: center;
 }
-.price-package .content .box .inner .text p{
- font-size: 15px;
- line-height: 20px;
- color:#222222;
- margin:0;
- text-align: center;
- padding:0 0 5px;
- font-family: 'Open-sans', sans-serif;	
+
+.price-package .content .box .inner .text h3 {
+  font-size: 24px;
+  color: #222222;
+  margin: 0;
+  padding: 0px 0px 20px;
+  font-weight: bold;
 }
-.price-package .content .box .inner .text .btn{
-    padding: 8px 30px;
-    background-color: #c11325;
-    color: #ffffff;
-    text-decoration: none;
-    display: inline-block;
-    border: 1px solid transparent;
-    cursor: pointer;
-    transition: all .5s ease;
-    margin-top: 10px;
+
+.price-package .content .box .inner .text p {
+  font-size: 15px;
+  line-height: 20px;
+  color: #222222;
+  margin: 0;
+  text-align: center;
+  padding: 0 0 5px;
+  font-family: 'Open-sans', sans-serif;
 }
-.price-package .content .box .inner .text .btn:hover{
-	cursor: pointer;
-    background-color: gold;
-    color: black;
-    font-size: 1rem;
+
+.price-package .content .box .inner .text .btn {
+  padding: 8px 30px;
+  background-color: #c11325;
+  color: #ffffff;
+  text-decoration: none;
+  display: inline-block;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all .5s ease;
+  margin-top: 10px;
+}
+
+.price-package .content .box .inner .text .btn:hover {
+  cursor: pointer;
+  background-color: gold;
+  color: black;
+  font-size: 1rem;
 }
 
 
 /*Class Schedule Section*/
-.schedule{
-	padding:80px 0px;
-    background-color: seashell;
+
+.schedule {
+  padding: 80px 0px;
+  background-color: seashell;
 }
 
-.schedule .content{
-	display: flex;
-    
+.schedule .content {
+  display: flex;
 }
 
-.schedule .content .box{
-	flex:0 0 50%;
-	max-width: 100%;
-	padding:15px;
+.schedule .content .box {
+  flex: 0 0 50%;
+  max-width: 100%;
+  padding: 15px;
 }
 
-.schedule .content .text h2{
-    font-size: 30px;
-    font-weight: 500;
-    color: #000000;
-    padding: 0px 20px;
+.schedule .content .text h2 {
+  font-size: 30px;
+  font-weight: 500;
+  color: #000000;
+  padding: 0px 20px;
 }
 
-
-.schedule .content .timing .table{
-	width: 100%;
-	border-collapse: collapse;
-
-    
+.schedule .content .timing .table {
+  width: 100%;
+  border-collapse: collapse;
 }
 
-.schedule .content .timing .table td{
-	border:1px solid #dfdfdf;
-	padding: 8px;
-	font-size: 15px;
-	text-align: center;
-	color: slategray;
-    font-weight: 500;
+.schedule .content .timing .table td {
+  border: 1px solid #dfdfdf;
+  padding: 8px;
+  font-size: 15px;
+  text-align: center;
+  color: slategray;
+  font-weight: 500;
 }
 
-.schedule .content .timing .table tr:nth-child(even) td.day{
-	background-color: #222222;
-}
-.schedule .content .timing .table tr:nth-child(odd) td.day{
-	background-color: #444444;
+.schedule .content .timing .table tr:nth-child(even) td.day {
+  background-color: #222222;
 }
 
-.schedule .content .timing .table tr td.day{
-	color:#ffffff;
-	border-color:transparent;
+.schedule .content .timing .table tr:nth-child(odd) td.day {
+  background-color: #444444;
 }
 
+.schedule .content .timing .table tr td.day {
+  color: #ffffff;
+  border-color: transparent;
+}
 
 
 /*Gallery Section*/
 
-.gallery{
-    padding: 30px;
-}
-.gallery .content{
-	display: flex;
-	flex-wrap: wrap;
+.gallery {
+  padding: 30px;
 }
 
-.gallery h2{
-    font-size: 30px;
-    font-weight: 500;
-    color: #111111;
-    margin-left: 40vw;
+.gallery .content {
+  display: flex;
+  flex-wrap: wrap;
 }
 
-
-.gallery .content .box{
-	max-width: 50%;	
+.gallery h2 {
+  font-size: 30px;
+  font-weight: 500;
+  color: #111111;
+  margin-left: 40vw;
 }
-.gallery .content .box img{
-	display: block;
-	width: 100%;
-    background-color: seashell;
-    padding: 1rem;
-	
+
+.gallery .content .box {
+  max-width: 50%;
+}
+
+.gallery .content .box img {
+  display: block;
+  width: 100%;
+  background-color: seashell;
+  padding: 1rem;
 }
 
 
 /*Contact Section*/
 
-.contact{
-	margin: 0px;
-	background-color: lightgrey;
+.contact {
+  margin: 0px;
+  background-color: lightgrey;
 }
 
-.contact .content{
-	-webkit-display: flex;
-	display: flex;
+.contact .content {
+  -webkit-display: flex;
+  display: flex;
 }
 
-.contact .content .c-box{
-	flex:0 0 50%;
-	max-width: 100%;
-	padding: 15px;
+.contact .content .c-box {
+  flex: 0 0 50%;
+  max-width: 100%;
+  padding: 15px;
 }
 
-.contact .content .c-box h2{
-    font-size: 30px;
-    font-weight: 500;
-    color: #111;
-    padding: 0px 0px 20px;
+.contact .content .c-box h2 {
+  font-size: 30px;
+  font-weight: 500;
+  color: #111;
+  padding: 0px 0px 20px;
 }
 
 .contact .content .form input,
-.contact .content .form textarea{
- height: 45px;
- width: 100%;
- padding:1rem;
- margin-bottom: 25px;
- background-color: transparent;
- border:1px solid darkslategray;
- font-family: sans-serif;
- color:darkslategray;
+.contact .content .form textarea {
+  height: 45px;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 25px;
+  background-color: transparent;
+  border: 1px solid darkslategray;
+  font-family: sans-serif;
+  color: darkslategray;
 }
+
 .contact .content .form input:focus,
-.contact .content .form textarea:focus{
- outline: none;
- font-size: 15px;
+.contact .content .form textarea:focus {
+  outline: none;
+  font-size: 15px;
 }
+
 .contact .content .form input::placeholder,
-.contact .content .form textarea::placeholder{
-	color:black;
-    font-size: 15px;
-}
-.contact .content .form textarea{
-	height: 100px;
-
+.contact .content .form textarea::placeholder {
+  color: black;
+  font-size: 15px;
 }
 
-.contact .content .form button{
-	outline: none;
-	box-shadow: none;
-	height: 45px;
-	padding:0px 50px;
-	border:1px solid transparent;
-	background-color: #c11325;
-	color:#ffffff;
-	font-size: 15px;
-	transition: all .5s ease;
-	cursor: pointer;
-}
-.contact .content .form button:hover{
-	
-	color:gold; 
-    border-color:#ffffff;
+.contact .content .form textarea {
+  height: 100px;
 }
 
-.contact .content .text h2{
-	font-size: 30px;
-    font-weight: 500;
-    color: #c11325;
-    padding: 0px 0px 20px;
-    padding-left: 40px;
+.contact .content .form button {
+  outline: none;
+  box-shadow: none;
+  height: 45px;
+  padding: 0px 50px;
+  border: 1px solid transparent;
+  background-color: #c11325;
+  color: #ffffff;
+  font-size: 15px;
+  transition: all .5s ease;
+  cursor: pointer;
 }
 
-.contact .content .text .info p{
-	display: block;
-	margin-bottom: 15px;
-	color: black;
-	font-size: 15px;
-	letter-spacing: 1px;
-	position: relative;
-	padding-left: 40px;
-	font-family: sans-serif;
+.contact .content .form button:hover {
+  color: gold;
+  border-color: #ffffff;
 }
 
-.contact .content .text .info p i{
-    display: inline-block;
-    margin-right: 10px;
+.contact .content .text h2 {
+  font-size: 30px;
+  font-weight: 500;
+  color: #c11325;
+  padding: 0px 0px 20px;
+  padding-left: 40px;
+}
+
+.contact .content .text .info p {
+  display: block;
+  margin-bottom: 15px;
+  color: black;
+  font-size: 15px;
+  letter-spacing: 1px;
+  position: relative;
+  padding-left: 40px;
+  font-family: sans-serif;
+}
+
+.contact .content .text .info p i {
+  display: inline-block;
+  margin-right: 10px;
 }
 
 .contact .content .text .social {
-	padding-top: 30px;
-    padding-left: 40px;
-    
+  padding-top: 30px;
+  padding-left: 40px;
 }
-.contact .content .text .social a{
-	height: 40px;
-	width: 40px;
-	line-height: 40px;
-	text-align: center;
-	background-color: #c11325;
-    text-decoration: none;	
-    display: inline-block;
-    margin-right: 10px;
-    transition: all .5s ease;
-    border:1px solid transparent;
-} 
 
-.contact .content .text .social a:hover{
-	background-color: gold;
-    border-color: #ffffff;
+.contact .content .text .social a {
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  text-align: center;
+  background-color: #c11325;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 10px;
+  transition: all .5s ease;
+  border: 1px solid transparent;
+}
+
+.contact .content .text .social a:hover {
+  background-color: gold;
+  border-color: #ffffff;
 }
 
 .contact .content .text .social a i {
-	color:#ffffff;
-	font-size: 20px;
+  color: #ffffff;
+  font-size: 20px;
 }
 
-.contact .content .times h3{
-    padding-left: 40px;
-    padding-top: 30px;
-    font-weight: 800;
-    
+.contact .content .times h3 {
+  padding-left: 40px;
+  padding-top: 30px;
+  font-weight: 800;
 }
 
-.contact .content .times p{
-    padding-left: 40px;
+.contact .content .times p {
+  padding-left: 40px;
 }
+
 
 /*Login Form*/
 
-.loginbox{
-    width: 320px;
-    height: 420px;
-    background: #000;
-    color:seashell;
-    top: 50%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50% , -50%);
-    box-sizing: border-box;
-    padding: 70px 30px;
+.loginbox {
+  width: 320px;
+  height: 420px;
+  background: #000;
+  color: seashell;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 70px 30px;
 }
 
-.loginbox .avatar{
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    position: absolute;
-    top: -50px;
-    left: calc(50% - 50px);
+.loginbox .avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 50px);
 }
 
-.loginbox h1{
-    margin: 0;
-    padding: 0 0 20px;
-    text-align: center;
-    font-size: 20px;
-    font-weight: 300;
+.loginbox h1 {
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 300;
 }
 
-.loginbox p{
-    margin: 0;
-    padding: 0;
-    font-weight: bold;
+.loginbox p {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
 }
 
-.loginbox input{
-    width: 100%;
-    margin-bottom: 20px;
+.loginbox input {
+  width: 100%;
+  margin-bottom: 20px;
 }
 
-.loginbox input[type="text"], input[type="password"]{
-    border: none;
-    border-bottom: 1px solid seashell;
-    background: transparent;
-    outline: none;
-    height: 40px;
-    color: seashell;
-    font-size: 15px;
+.loginbox input[type="text"],
+input[type="password"] {
+  border: none;
+  border-bottom: 1px solid seashell;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: seashell;
+  font-size: 15px;
 }
 
-.loginbox input[type="submit"]{
-    border: none;
-    outline: none;
-    height: 40px;
-    background: #fb2525;
-    color: seashell;
-    font-size: 20px;
-    border-radius: 20px;
+.loginbox input[type="submit"] {
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #fb2525;
+  color: seashell;
+  font-size: 20px;
+  border-radius: 20px;
 }
 
-
-.loginbox input[type="submit"]:hover{
-    cursor: pointer;
-    background: gold;
-    color: black;
+.loginbox input[type="submit"]:hover {
+  cursor: pointer;
+  background: gold;
+  color: black;
 }
 
-.loginbox a{
-    font-size: 15px;
-    color: darkgray;
-    text-decoration: none;
-    line-height: 20px;
+.loginbox a {
+  font-size: 15px;
+  color: darkgray;
+  text-decoration: none;
+  line-height: 20px;
 }
 
-.loginbox a:hover{
-    color: gold;
+.loginbox a:hover {
+  color: gold;
 }
 
-.home nav{
-    float: left;
-    padding: 15px 15px;
+.home nav {
+  float: left;
+  padding: 15px 15px;
 }
 
-.home nav li{
-    display: inline;
-    padding: 1.7rem;
-    
+.home nav li {
+  display: inline;
+  padding: 1.7rem;
 }
 
-.home nav li a{
-    color: black;
-    text-decoration: none;
-    font-family: sans-serif;
-    font-size: 30px;
+.home nav li a {
+  color: black;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 30px;
 }
 
-.home nav li a:hover{
-    color: #c11325;  
+.home nav li a:hover {
+  color: #c11325;
 }
 
 
 /*Footer*/
 
-footer{
-    background-color: lightgray;
-	padding-top: 100px;
-	font-size: 15px;
+footer {
+  background-color: lightgray;
+  padding-top: 100px;
+  font-size: 15px;
 }
+
 
 /*Responsive*/
 
+
 /*if screen width is less than or equal to 991px then*/
-@media(max-width: 991px){
-    .navbar {
-        flex-direction: column;
-        align-items: flex-start;
-    }
 
-    .toggle-button {
-        display: flex;
-    }
-
-    .navbar-links {
-        display: none;
-        width: 100%;
-    }
-
-    .navbar-links ul {
-        width: 100%;
-        flex-direction: column;
-    }
-
-    .navbar-links ul li {
-        text-align: center;
-    }
-
-    .navbar-links ul li a {
-        padding: .5rem 1rem;
-    }
-
-    .navbar-links.active {
-        display: flex;
-    }
-
-
-    .banner{
-        padding: 150px 50px 0;
-        flex-direction: column;
-        overflow: hidden;
-    }
-
-    .banner .textBox h2{
-        max-width: 100%;
-        flex-direction: column;
-    }
-
-    .banner:before{
-        width: 400px;
-        transform: skewX(-25deg);
-    }
-
-    .banner .textBox{
-        max-width: 100%;
-    }
-
-
-    .services .content{
-	    flex-wrap: wrap;
-    }
-    .services .content .box {
-        flex: 0 0 100%;
-        max-width: 100%;
-    }
-    .schedule .content{
-	    flex-wrap: wrap;
-    }
-    .schedule .content .box{
-        flex: 0 0 100%;
-        max-width: 100%;	
-    }
-
-    .gallery .content{
-        flex-wrap: wrap;
-    }
-    .gallery .content .box {
-        flex: 0 0 100%;
-        max-width: 100%;
-    }
-
-    .price-package .content{
-	   flex-wrap: wrap;
-    }
-    .price-package .content .box {
-        flex: 0 0 100%;
-        max-width: 100%;
-    }
-    .contact .content{
-	    flex-wrap: wrap;
-    }
-    .contact .content .box {
-        flex: 0 0 100%;
-        max-width: 100%;
-    }
-    }
+@media(max-width: 991px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .toggle-button {
+    display: flex;
+  }
+  .navbar-links {
+    display: none;
+    width: 100%;
+  }
+  .navbar-links ul {
+    width: 100%;
+    flex-direction: column;
+  }
+  .navbar-links ul li {
+    text-align: center;
+  }
+  .navbar-links ul li a {
+    padding: .5rem 1rem;
+  }
+  .navbar-links.active {
+    display: flex;
+  }
+  .banner {
+    padding: 150px 50px 0;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .banner .textBox h2 {
+    max-width: 100%;
+    flex-direction: column;
+  }
+  .banner:before {
+    width: 400px;
+    transform: skewX(-25deg);
+  }
+  .banner .textBox {
+    max-width: 100%;
+  }
+  .services .content {
+    flex-wrap: wrap;
+  }
+  .services .content .box {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .schedule .content {
+    flex-wrap: wrap;
+  }
+  .schedule .content .box {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .gallery .content {
+    flex-wrap: wrap;
+  }
+  .gallery .content .box {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .price-package .content {
+    flex-wrap: wrap;
+  }
+  .price-package .content .box {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .contact .content {
+    flex-wrap: wrap;
+  }
+  .contact .content .box {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
