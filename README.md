@@ -8,6 +8,10 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 <h2 align="center"><img src="assets/images/RD.png"></h2>
 
+## User Experience (UX)
+
+-   ### User stories
+
 https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
 
 https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s
