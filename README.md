@@ -3,6 +3,7 @@
 [View the live project here.](https://birchm93.github.io/Project/index.html)
 
 Milestone Project 1: User-Centric Frontend Development - Code Institute
+
 The purpose of my project is to design a fictional gym website, to attract new members and existing members.
 
 <h2 align="center"><img src="assets/images/RD.png"></h2>
