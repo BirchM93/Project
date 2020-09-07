@@ -1,20 +1,11 @@
-Project Example Idea 2: Build a website for a gym.
+<h1>PRO FITNESS</h1>
 
-Consists of the gym name with a navbar consisting of all the sections. (Home, Services, Prices, Classes, Gallery and Contact Us)
+[View the live project here.](https://birchm93.github.io/Project/index.html)
 
-I added a banner with an image and a header consisting of a small introductory paragraph for the Home page.
+Milestone Project 1: User-Centric Frontend Development - Code Institute
+The purpose of my project is to design a fictional gym website, to attract new members and existing members.
 
-User can join up by clicking on the prices section and it gives you 3 options.
-
-Users can get in touch by clicking on the Contact Us section and filling out a form or can click on the social media platforms.
-
-There is a fitness class schedule by clicking on the classes section.
-
-I added a few hover features on this site including the login buttons and join now buttons
-
-I added a seperate page using a login button  where existing members can login using their username and password and new users can create an account 
-
-I created a hamburger menu for the navbar which will be visible in Responsive view using Javascrpit(script.js) of less than or equal to 800px. 
+<h2 align="center"><img src="assets/images/RD.png"></h2>
 
 https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
 
