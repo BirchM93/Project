@@ -25,10 +25,9 @@ The purpose of my project is to design a fictional gym website, to attract new m
     11. As a current client, I want to get contact information, so i can ask a question about my membership
     12. As a current client, I want to know the location of the gym.
 
-### Wireframes
+*   ### Wireframes
 
     -   Home Page Wireframe - [View](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/Cb327309a6af0e9cafb6482cf611f0d18/projects/Me940af8e93edde9049b767c94a9234291599445938414/pages/7d836a88be19494fa1e0ae1f8b320df6/image/7d836a88be19494fa1e0ae1f8b320df6.png)
-
 
 https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
 
