@@ -64,6 +64,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 ### Code Validation
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - One error appeared for the index file but it did not affect the end result whatsoever.
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - No errors found.
+-   [Esprima Javascript Validator](https://esprima.org/demo/validate.html) - Code is valid.
 
 ## Deployment
 
