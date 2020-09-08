@@ -12,18 +12,18 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 -   ### User stories
 
-    1.  As a new visitor to the website, I want to easily navigate the site, so I can find what I need.
-    2.  As an interested client, I want an easy to fill in enquiry form, so I can make contact with the gym.
-    3.  As a new visitor to the website, I want learn more about the gym.
-    4.  As a new and potential client, I want information about gym memberships rates.
-    5.  As an interested client, I want an easy to fill in enquiry form.
-    6.  As an interested current/or potential client, I want to follow the gym on social media, so I can keep up with their latest news.
-    7.  As a potential/current client, I want to check the class timetables.
-    8.  As a new/current client, I want to know what classes are on offer.
-    9.  As a new and potential client, I want to get in contact with the gym, so that I can ask more specific questions with a representative of the gym.
-    10. As a potential/current client, I want to check the opening times.
-    11. As a current client, I want to get contact information, so i can ask a question about my membership
-    12. As a current client, I want to know the location of the gym.
+    -  As a new visitor to the website, I want to easily navigate the site, so I can find what I need.
+    -  As an interested client, I want an easy to fill in enquiry form, so I can make contact with the gym.
+    -  As a new visitor to the website, I want learn more about the gym.
+    -  As a new and potential client, I want information about gym memberships rates.
+    -  As an interested client, I want an easy to fill in enquiry form.
+    -  As an interested current/or potential client, I want to follow the gym on social media, so I can keep up with their latest news.
+    - As a potential/current client, I want to check the class timetables.
+    - As a new/current client, I want to know what classes are on offer.
+    -  As a new and potential client, I want to get in contact with the gym, so that I can ask more specific questions with a representative of the gym.
+    - As a potential/current client, I want to check the opening times.
+    - As a current client, I want to get contact information, so i can ask a question about my membership
+    - As a current client, I want to know the location of the gym.
 
 *   ### Wireframes
 
