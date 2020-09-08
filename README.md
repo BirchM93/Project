@@ -55,6 +55,19 @@ The purpose of my project is to design a fictional gym website, to attract new m
 1. [Mockflow:](https://mockflow.com)
     - Mockflow was used to create the wireframes during the design process.
 
+## Deployment
+
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/BirchM93/Project)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://birchm93.github.io/Project/) in the "GitHub Pages" section.
+
 
 
 https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
