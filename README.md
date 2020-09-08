@@ -45,7 +45,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Font Awesome:](https://fontawesome.com/icons?d=gallery)
-    - Font Awesome was used to create social media icons and also icons for location, phone number & email in the Contact Us section.
+    - Font Awesome was used to add icons for UX purposes.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Mockflow:](https://mockflow.com)
