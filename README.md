@@ -68,6 +68,15 @@ The project was deployed to GitHub Pages using the following steps...
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://birchm93.github.io/Project/) in the "GitHub Pages" section.
 
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/BirchM93/Project)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+7. Press Enter. Your local clone will be created.
 
 
 https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
