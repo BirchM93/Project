@@ -18,16 +18,36 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -  As a new and potential client, I want information about gym memberships rates.
     -  As an interested client, I want an easy to fill in enquiry form.
     -  As an interested current/or potential client, I want to follow the gym on social media, so I can keep up with their latest news.
-    - As a potential/current client, I want to check the class timetables.
-    - As a new/current client, I want to know what classes are on offer.
+    -  As a potential/current client, I want to check the class timetables.
+    -  As a new/current client, I want to know what classes are on offer.
     -  As a new and potential client, I want to get in contact with the gym, so that I can ask more specific questions with a representative of the gym.
-    - As a potential/current client, I want to check the opening times.
-    - As a current client, I want to get contact information, so i can ask a question about my membership
-    - As a current client, I want to know the location of the gym.
+    -  As a potential/current client, I want to check the opening times.
+    -  As a current client, I want to get contact information, so i can ask a question about my membership
+    -  As a current client, I want to know the location of the gym.
 
 *   ### Wireframes
 
     -   Home Page Wireframe - [View](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/Cb327309a6af0e9cafb6482cf611f0d18/projects/Me940af8e93edde9049b767c94a9234291599445938414/pages/7d836a88be19494fa1e0ae1f8b320df6/image/7d836a88be19494fa1e0ae1f8b320df6.png)
+
+
+
+
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Font Awesome:](https://fontawesome.com/icons?d=gallery)
+    - Font Awesome was used to create all icons in this site.
+
+
 
 https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
 
