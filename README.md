@@ -12,7 +12,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 -   ### Strategy
     The overall aim is to attract new memebers and retention of existing members.
-    The website will enable users to find important information with regards to location, membership fees, opening hours, getting in contact and fitness classes.
+    The website will enable users to find important information with regards to the location, fees, opening hours, getting in contact and class timetables
 
 -   ### User stories
 
