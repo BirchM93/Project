@@ -60,7 +60,8 @@ The purpose of my project is to design a fictional gym website, to attract new m
     - Mockflow & Balsamiq were used to create wireframes during the design process.
 
 ## Testing
-The W3C Markup Validator and W3C CSS Validator Services were used to validate the HTML and CSS of the project.
+
+### Code Validation
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - One error appeared for the index file but it did not affect the end result whatsoever.
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - No errors found.
 
