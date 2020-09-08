@@ -36,8 +36,8 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Prices - [View]()
     -   Classes - [View]()
     -   Gallery - [View]()
-    -   Contact Us [View]()
-    -   Login Page [View]()
+    -   Contact Us - [View]()
+    -   Login Page - [View]()
 ## Features
 
 ## Technologies Used
