@@ -33,6 +33,11 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
     -   Home - [View](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/Cb327309a6af0e9cafb6482cf611f0d18/projects/Me940af8e93edde9049b767c94a9234291599445938414/pages/7d836a88be19494fa1e0ae1f8b320df6/image/7d836a88be19494fa1e0ae1f8b320df6.png)
     -   Services - [View](https://balsamiq.cloud/sjp9vh5/ph6xckn)
+    -   Prices - [View]()
+    -   Classes - [View]()
+    -   Gallery - [View]()
+    -   Contact Us [View]()
+    -   Login Page [View]()
 ## Features
 
 ## Technologies Used
