@@ -59,7 +59,11 @@ The purpose of my project is to design a fictional gym website, to attract new m
 1. [Mockflow](https://mockflow.com) and [Balsamiq:](https://balsamiq.com/)
     - Mockflow & Balsamiq were used to create wireframes during the design process.
 
+## Testing
 
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/#textarea)
+    One error appeared but it did not affect the end result whatsoever.
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator)
 
 ## Deployment
 
