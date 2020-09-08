@@ -61,8 +61,8 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 ## Testing
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/#textarea)
-    One error appeared but it did not affect the end result whatsoever.
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://validator.w3.org/nu/#textarea)   
+        (One error appeared but it did not affect the end result whatsoever)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://jigsaw.w3.org/css-validator/validator)
 
 ## Deployment
