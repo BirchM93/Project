@@ -49,8 +49,8 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 ## Features
 
--   #### Navbar
 <img src="assets/images/screenshots/navbar.png">
+-   #### Navbar
     -   Allows users to click on each of the links in the navbar which will take them to the section they require.
     -   Login button will take you to another page.
     -   By clicking on the logo on the left hand side will bring you back to the home page.
