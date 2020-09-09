@@ -31,13 +31,13 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 *   ### Wireframes
 
-    -   Home - <img src = "assets/wireframes/Home Page.png">
-    -   Services - <img src = "assets/wireframes/Services Page.png">
-    -   Prices - [View]()
-    -   Classes - [View]()
-    -   Gallery - [View]()
-    -   Contact Us - [View]()
-    -   Login Page - [View]()
+    -   Home : <img src = "assets/wireframes/Home Page.png">
+    -   Services : <img src = "assets/wireframes/Services Page.png">
+    -   Prices : 
+    -   Classes : 
+    -   Gallery : 
+    -   Contact Us : 
+    -   Login Page : 
 ## Features
 
 ## Technologies Used
