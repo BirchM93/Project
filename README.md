@@ -49,7 +49,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 ## Features
 
--   Navbar  
+-   #### Navbar  
     <img src = "assets/images/screenshots/navbar.png">
     -   Allows users to click on each of the links in the navbar which will take them to the section they require.
     -   Login button will take you to the login page (more info on Login Page feature).
@@ -65,7 +65,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Overview of what services are provided.
 
 -   Price Packages Page
-    <img src = "assets/images/screenshots/pricespage">
+    <img src = "assets/images/screenshots/pricespage.png">
     - Three sepeate packages provided with a description in each along with a Join Now button feature. 
 
 -   Contact Us Page   
@@ -80,7 +80,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Consists of a login box along with an avatar image at the top.
     -   Prompts existing members to login with their registered username and password.
     -   Existing members who don't have an account can click below the Login button to create a new account if they wish and also reset passwords if needed.
-    -   Below the Login button there is 
+    -   By clicking "Back to Home" on the top left of the page you will be brought back to the home page.
 
 
 
