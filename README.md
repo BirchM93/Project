@@ -55,15 +55,32 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Login button will take you to the login page (more info on Login Page feature).
     -   By clicking on the logo on the left hand side will bring you back to the home page.
 
--   Home Page   <img src = "assets/images/screenshots/homepage.png">   
+-   Home Page   
+    <img src = "assets/images/screenshots/homepage.png">   
     -   Consists of a hero image along with a brief overview.
 
--   Services Page   <img src = "assets/images/screenshots/servicespage.png"> 
+-   Services Page  
+    <img src = "assets/images/screenshots/servicespage.png">
+    -   Consists of three stock images along with a brief description below each image.
+    -   Overview of what services are provided.
 
--   Contact Us Page   <img src = "assets/images/screenshots/contactus.png"> 
+-   Price Packages Page
+    <img src = "assets/images/screenshots/pricespage">
+    - Three sepeate packages provided with a description in each along with a Join Now button feature. 
+
+-   Contact Us Page   
+    <img src = "assets/images/screenshots/contactuspage.png"> 
     -   Allows users to get in contact with the gym by entering a form.
     -   Users can also get in contact via social media links displayed.
     -   Opening hours, location and address are displayed.
+
+-   Login Page
+    <img src = "assets/images/screenshots/loginpage.png">
+    -   Brings you to a new seperate page when login button is clicked on the main page.
+    -   Consists of a login box along with an avatar image at the top.
+    -   Prompts existing members to login with their registered username and password.
+    -   Existing members who don't have an account can click below the Login button to create a new account if they wish and also reset passwords if needed.
+    -   Below the Login button there is 
 
 
 
