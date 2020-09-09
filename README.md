@@ -11,7 +11,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 ## User Experience (UX)
 
 -   ### Strategy
-    The overall aim is to attract new memebers and retention of existing members.
+    The overall aim is to attract new members and retention of existing members.
     The website will enable users to find important information with regards to the location, fees, opening hours, getting in contact and class timetables
 
 -   ### User stories
