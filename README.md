@@ -78,10 +78,11 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Allows users to get in contact with the gym by entering a form.
     -   Users can also get in contact via social media links displayed.
     -   Opening hours, location and address are displayed.
+    -   Footer included at the bottom of the page.
 
 -   #### Login Page
     <img src = "assets/images/screenshots/loginpage.png">
-    
+
     -   Brings you to a new seperate page when login button is clicked on the main page.
     -   Consists of a login box along with an avatar image at the top.
     -   Prompts existing members to login with their registered username and password.
