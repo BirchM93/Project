@@ -68,7 +68,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 ### Further Testing
 
--   This website was tested on Google Chrome, Internet Explorer and Safari browsers.
+-   This website was tested on Google Chrome, Internet Explorer, Firefox and Safari browsers.
 -   This website was viewed on a variety of devices such as Desktop, Laptop and all devices listed in responsive section of Google Developer Tools.
 -   Friends and family members were asked to review the site and documentation to point out any user experience issues.
 
