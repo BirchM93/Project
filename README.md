@@ -54,7 +54,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Login button will take you to another page.
     -   By clicking on the logo on the left hand side will bring you back to the home page.
 
--   Home Page   <img src = "assets/images/screenshots/homepage.png>   
+-   Home Page   <img src = "assets/images/screenshots/homepage.png">   
     -   Consists of the navbar which was explained previously.
     -   Hero image along with a brief overview.  
 
