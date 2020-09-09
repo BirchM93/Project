@@ -49,14 +49,16 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 ## Features
 
--   Navbar  <img src = "assets/images/screenshots/navbar.png">
+-   Navbar  
+    <img src = "assets/images/screenshots/navbar.png">
     -   Allows users to click on each of the links in the navbar which will take them to the section they require.
-    -   Login button will take you to another page.
+    -   Login button will take you to the login page (more info on Login Page feature).
     -   By clicking on the logo on the left hand side will bring you back to the home page.
 
 -   Home Page   <img src = "assets/images/screenshots/homepage.png">   
-    -   Consists of the navbar which was explained previously.
-    -   Hero image along with a brief overview.  
+    -   Consists of a hero image along with a brief overview.
+
+-   Services Page   <img src = "assets/images/screenshots/servicespage.png"> 
 
 -   Contact Us  <img src = "assets/images/screenshots/contactus.png"> 
     -   Allows users to get in contact with the gym by entering a form.
