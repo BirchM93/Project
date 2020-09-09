@@ -47,7 +47,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Contact Us - [View]()
     -   Login Page - [View]()
 ## Features
--   #### Navbar <img src="assets/images/screenshots/navbar.png">
+-   #### Navbar(<img src="assets/images/screenshots/navbar.png">)
     
 ## Technologies Used
 
