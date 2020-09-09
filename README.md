@@ -31,7 +31,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 *   ### Wireframes
 
-    -   Home - [View](assets/wireframes/Home Page.png)
+    -   Home - [View]<img src = "assets/wireframes/Home Page.png">
     -   Services - [View](assets/wireframes/Services Page.png)
     -   Prices - [View]()
     -   Classes - [View]()
