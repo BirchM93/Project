@@ -60,7 +60,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 -   Services Page   <img src = "assets/images/screenshots/servicespage.png"> 
 
--   Contact Us  <img src = "assets/images/screenshots/contactus.png"> 
+-   Contact Us Page   <img src = "assets/images/screenshots/contactus.png"> 
     -   Allows users to get in contact with the gym by entering a form.
     -   Users can also get in contact via social media links displayed.
     -   Opening hours, location and address are displayed.
