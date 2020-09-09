@@ -44,7 +44,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Prices - [View]()
     -   Contact Us - [View]()
     -   Login Page - [View]()
-    -   Mobile View - [View] ()
+    -   Mobile View - [View]()
 
 ## Features
 
@@ -87,6 +87,9 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Prompts existing members to login with their registered username and password.
     -   Existing members who don't have an account can click below the Login button to create a new account if they wish and also reset passwords if needed.
     -   By clicking "Back to Home" on the top left of the page you will be brought back to the home page.
+
+-   #### Hamburger menu
+    
 
 
 
