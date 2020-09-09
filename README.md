@@ -41,12 +41,9 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
     -   Home - [View](https://github.com/BirchM93/Project/blob/master/assets/wireframes/Home%20Page.png)
     -   Services - [View](https://github.com/BirchM93/Project/blob/master/assets/wireframes/Services%20Page.png)
-    -   Prices - [View]()
-    -   Classes - [View]()
-    -   Gallery - [View]()
     -   Contact Us - [View]()
     -   Login Page - [View]()
-
+    
 ## Features
 
 -   #### Navbar  
