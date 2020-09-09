@@ -29,6 +29,14 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -  As a current client, I want to get contact information, so i can ask a question about my membership
     -  As a current client, I want to know the location of the gym.
 
+-   ### Design
+    -   #### Colour Scheme
+        -   The main colours used are seashell, red and grey.
+    -   #### Imagery
+        -   Hero image is designed to be striking and catch the user's attention.
+        -   Services section consist of 3 stock images with a brief description of each.
+        -   Gallery section consists of images which displays the facilties of the gym.
+
 *   ### Wireframes
 
     -   Home - [View](https://github.com/BirchM93/Project/blob/master/assets/wireframes/Home%20Page.png)
