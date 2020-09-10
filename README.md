@@ -165,18 +165,17 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Content
 
--  Home Page - [link](https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn)
-                [link](https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s)
-                          [link](https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s)
-                          [link](https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s) 
+-   [Home Page](https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn)
 
--  User Login Page - [view](https://www.youtube.com/watch?v=OWNxUVnY3pg)
+-   [Sections (Prices, Classes, Gallery, Contact Us)](https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s)
+                          
+-   [User Login Page](https://www.youtube.com/watch?v=OWNxUVnY3pg)
 
--  Responsive Navbar/Hamburger menu - [view](https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s)
+-   [Responsive Navbar/Hamburger menu](https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s)
 
 ### Media
 
--   [Hero image(man.png)](https://drive.google.com/drive/folders/1iqUFKsR5cO9CMF03a8i-COrBHNBv5BEG)
+-   [Hero image (man.png)](https://drive.google.com/drive/folders/1iqUFKsR5cO9CMF03a8i-COrBHNBv5BEG)
 
 -   [Service descriptions](https://www.anytimefitness.com/training/)
 
