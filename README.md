@@ -176,13 +176,13 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Media
 
--   [view](https://www.anytimefitness.com/training/)
+-   [Service descriptions ](https://www.anytimefitness.com/training/)
 
--   [view](https://www.pexels.com/) 
+-   [Services stock images](https://www.pexels.com/) 
 
--   [view](https://www.flaticon.com/)
+-   [Login avatar](https://www.flaticon.com/)
 
--   [view](https://fontawesome.com/icons?d=gallery)
+-   [Contact us icons](https://fontawesome.com/icons?d=gallery)
 
 ### Acknowledgements
 
