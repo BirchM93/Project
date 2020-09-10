@@ -165,10 +165,10 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Content
 
--  Home Page/Menu items - [(1)](https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn)
-                          [(2)](https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s)
-                          [(3)](https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s)
-                          [(4)](https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s) 
+-  Home Page - [link](https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn)
+                [link](https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s)
+                          [link](https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s)
+                          [link](https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s) 
 
 -  User Login Page - [view](https://www.youtube.com/watch?v=OWNxUVnY3pg)
 
@@ -176,11 +176,15 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Media
 
--   [Service descriptions ](https://www.anytimefitness.com/training/)
+-   [Hero image](https://drive.google.com/drive/folders/1iqUFKsR5cO9CMF03a8i-COrBHNBv5BEG)
+
+-   [Service descriptions](https://www.anytimefitness.com/training/)
 
 -   [Services stock images](https://www.pexels.com/) 
 
 -   [Login avatar](https://www.flaticon.com/)
+
+-   [Social media icons](https://www.w3schools.com/icons/fontawesome_icons_brand.asp)
 
 -   [Contact us icons](https://fontawesome.com/icons?d=gallery)
 
