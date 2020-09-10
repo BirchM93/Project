@@ -133,11 +133,9 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 #### Navbar item links
 <img src="assets/images/screenshots/navbarhover.png">
-
--   Navigation links were tested with a hover affect which was verified to ensure each menu item link changes to a red colour when the cursor points to each link.
-
 <img src="assets/images/screenshots/loginhover.png">
 
+-   Navigation links were tested with a hover affect which was verified to ensure each menu item link changes to a red colour when the cursor points to each link.
 -   The Login Button at the end of the navigation bar was tested with a hover effect which was verified to ensure the text in the button changed from white to yellow. 
 
 
