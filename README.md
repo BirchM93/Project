@@ -165,10 +165,10 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Content
 
--  Home Page/Menu items - [view](https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn)
-                          [view](https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s)
-                          [view](https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s)
-                          [view](https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s) 
+-  Home Page/Menu items - [(1)](https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn)
+                          [(2)](https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s)
+                          [(3)](https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s)
+                          [(4)](https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s) 
 
 -  User Login Page - [view](https://www.youtube.com/watch?v=OWNxUVnY3pg)
 
