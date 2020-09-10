@@ -189,7 +189,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 -   [Social media icons](https://www.w3schools.com/icons/fontawesome_icons_brand.asp)
 
--   [Contact us icons](https://fontawesome.com/v4.7.0/icons/)
+-   [Location, phone & email icons](https://fontawesome.com/v4.7.0/icons/)
 
 ### Acknowledgements
 
