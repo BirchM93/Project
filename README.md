@@ -183,6 +183,8 @@ The project was deployed to GitHub Pages using the following steps...
 
 -   [Services stock images](https://www.pexels.com/) 
 
+-   [Gallery images](https://drive.google.com/file/d/1BBfbf15QUBp81zpnB_lillCyHiW_h5lX/view)
+
 -   [Login avatar icon](https://www.flaticon.com/free-icon/user_2948062)
 
 -   [Social media icons](https://www.w3schools.com/icons/fontawesome_icons_brand.asp)
