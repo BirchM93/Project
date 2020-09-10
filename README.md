@@ -165,7 +165,11 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Content
 
--  Home Page/Menu items  - [view]https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s 
+-  Home Page/Menu items  - [view]
+    https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn 
+    https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s 
+    https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s 
+    https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s 
 
 -  User Login Page - [view](https://www.youtube.com/watch?v=OWNxUVnY3pg)
 
@@ -173,13 +177,13 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Media
 
--   [view]https://www.anytimefitness.com/training/ 
+-   [view](https://www.anytimefitness.com/training/)
 
--   [view]https://www.pexels.com/ 
+-   [view](https://www.pexels.com/) 
 
--   [view]https://www.flaticon.com/ 
+-   [view](https://www.flaticon.com/)
 
--   [view]https://fontawesome.com/icons?d=gallery
+-   [view](https://fontawesome.com/icons?d=gallery)
 
 ### Acknowledgements
 
