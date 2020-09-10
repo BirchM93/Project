@@ -74,16 +74,16 @@ The purpose of my project is to design a fictional gym website, to attract new m
 -   #### Contact Us Page   
     <img src = "assets/images/screenshots/contactuspage.png"> 
 
-    -   Allows users to get in contact with the gym by entering a form.
-    -   Users can also get in contact via social media links displayed.
-    -   Opening hours, location and address are displayed.
+    -   Created a contact form with a submit button.
+    -   Users can also get in contact via social media links displayed with icons.
+    -   Opening hours, location and address are displayed along with icons.
     -   Footer included at the bottom of the page.
 
 -   #### Login Page
     <img src = "assets/images/screenshots/loginpage.png">
 
     -   Brings you to a new seperate page when login button is clicked on the main page.
-    -   Consists of a login box along with an avatar image at the top.
+    -   Consists of a login box, an avatar image at the top and a Login button feature.
     -   Prompts existing members to login with their registered username and password.
     -   Existing members who don't have an account can click below the Login button to create a new account if they wish and also reset passwords if needed.
     -   By clicking "Back to Home" on the top left of the page you will be brought back to the home page.
