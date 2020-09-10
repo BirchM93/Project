@@ -176,17 +176,17 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Media
 
--   [Hero image](https://drive.google.com/drive/folders/1iqUFKsR5cO9CMF03a8i-COrBHNBv5BEG)
+-   [Hero image(man.png)](https://drive.google.com/drive/folders/1iqUFKsR5cO9CMF03a8i-COrBHNBv5BEG)
 
 -   [Service descriptions](https://www.anytimefitness.com/training/)
 
 -   [Services stock images](https://www.pexels.com/) 
 
--   [Login avatar](https://www.flaticon.com/)
+-   [Login avatar icon](https://www.flaticon.com/free-icon/user_2948062)
 
 -   [Social media icons](https://www.w3schools.com/icons/fontawesome_icons_brand.asp)
 
--   [Contact us icons](https://fontawesome.com/icons?d=gallery)
+-   [Contact us icons](https://fontawesome.com/v4.7.0/icons/)
 
 ### Acknowledgements
 
