@@ -161,6 +161,32 @@ The project was deployed to GitHub Pages using the following steps...
 7. Press Enter. Your local clone will be created.
 
 
+## Credits
+
+### Code
+
+-  
+
+-  
+
+-   
+### Content
+
+-   
+
+-   
+
+### Media
+
+-   
+
+### Acknowledgements
+
+-   My Mentor for continuous helpful feedback.
+
+-   Tutor support at Code Institute for their support.
+
+
 https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
 
 https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s
