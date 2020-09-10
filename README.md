@@ -175,7 +175,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 -  https://www.youtube.com/watch?v=OWNxUVnY3pg
 
--  https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s
+-  Responsive Navbar was used from the following tutorial: [View] (https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s)
 
 ### Media
 
