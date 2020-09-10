@@ -141,7 +141,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 ### Feature Testing
 
-## Navbar item links
+-   Navbar item links
 <img src="assets/images/screenshots/navbarhover.png">
 
 
