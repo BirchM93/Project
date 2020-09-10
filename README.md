@@ -163,46 +163,32 @@ The project was deployed to GitHub Pages using the following steps...
 
 ## Credits
 
-### Code
-
--  
-
--  
-
--   
 ### Content
 
--   
+-  https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
 
--   
+-  https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s
+
+-  https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s
+
+-  https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s 
+
+-  https://www.youtube.com/watch?v=OWNxUVnY3pg
+
+-  https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s
 
 ### Media
 
--   
+-   https://www.anytimefitness.com/training/ (Services Descriptions)
+
+-   https://www.pexels.com/ (3 Services images)
+
+-   https://www.flaticon.com/ (User Login image)
+
+-   https://fontawesome.com/icons?d=gallery
 
 ### Acknowledgements
 
 -   My Mentor for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
-
-
-https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
-
-https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s
-
-https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s
-
-https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s 
-
-https://www.youtube.com/watch?v=OWNxUVnY3pg
-
-https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s
-
-https://www.anytimefitness.com/training/ (Services Descriptions)
-
-https://www.pexels.com/ (3 Services images)
-
-https://www.flaticon.com/ (User Login image)
-
-https://fontawesome.com/icons?d=gallery
