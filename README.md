@@ -89,6 +89,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 -   #### Hamburger menu
     <img src = "assets/images/screenshots/mobileview1.png"> 
+    
     <img src = "assets/images/screenshots/mobileview2.png">
 
     -   Navigation menu will collapse into a hamburger menu icon on smaller screens such as tablets and mobile phones to make it user friendly and appealing.
