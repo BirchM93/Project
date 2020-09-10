@@ -95,6 +95,13 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Navigation menu will collapse into a hamburger menu icon on smaller screens such as tablets and mobile phones to make it user friendly and appealing.
     -   When the hamburger menu icon is clicked a drop down menu will appear with the navbar items.
 
+### Features Left to Implement
+
+-   Workout Plans
+-   Membership Package forms
+-   Reset User Login password link
+-   Create User Account forms
+
 
 
 
