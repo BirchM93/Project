@@ -179,11 +179,11 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Media
 
--   https://www.anytimefitness.com/training/ (Services Descriptions)
+-   https://www.anytimefitness.com/training/ 
 
--   https://www.pexels.com/ (3 Services images)
+-   https://www.pexels.com/ 
 
--   https://www.flaticon.com/ (User Login image)
+-   https://www.flaticon.com/ 
 
 -   https://fontawesome.com/icons?d=gallery
 
