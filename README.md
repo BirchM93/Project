@@ -177,6 +177,8 @@ The project was deployed to GitHub Pages using the following steps...
 
 -   [Hero image (man.png)](https://drive.google.com/drive/folders/1iqUFKsR5cO9CMF03a8i-COrBHNBv5BEG)
 
+-   [Home Introductory text](https://www.anytimefitness.com/membership/)
+
 -   [Service descriptions](https://www.anytimefitness.com/training/)
 
 -   [Services stock images](https://www.pexels.com/) 
