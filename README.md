@@ -102,6 +102,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 -   Membership Package forms
 -   Reset User Login password link
 -   Create User Account forms
+-   Pop up message indicating submission form was submitted
 
 ## Technologies Used
 
@@ -131,13 +132,20 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 ### Feature Testing
 
-#### Navbar item links
-<img src="assets/images/screenshots/navbarhover.png"><img src="assets/images/screenshots/loginhover.png">
+#### Navbar 
+<img src="assets/images/screenshots/navbarhover.png">
+<img src="assets/images/screenshots/loginhover.png">
 
--   Navigation links were tested with a hover affect which was verified to ensure each menu item link changes to a red colour when the cursor points to each link.
--   The Login Button at the end of the navigation bar was tested with a hover effect which was verified to ensure the text in the button changed from white to yellow. 
+-   Navigation links were tested with a hover affect to ensure each menu item link changes to a red colour when the cursor points to each link.
+-   The Login Button at the end of the navigation bar was tested with a hover effect which was verified to ensure the text in the button changed from white to gold. 
 
+#### Contact Us Form & Social Media 
+<img src="assets/images/screenshots/formfeatures.png">
+<img src="assets/images/screenshots/socialmedia.png">
 
+-   Contact Form was tested with a hover effect on the Send Message submit button in which the text changes from white to gold.
+-   Form was checked for data validation.
+-   The social media icons were tested with a hover effect in which the icons change from red to gold with a white border when the cursor points to each icon.
 
 
 ### Further Testing
