@@ -52,6 +52,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     <img src = "assets/images/screenshots/navbar.png">
 
     -   Allows users to click on each of the links in the navbar which will take them to the section they require.
+    -   Navbar feature will show in all sections.
     -   Login button will take you to the login page (more info on Login Page feature).
     -   By clicking on the logo on the left hand side will bring you back to the home page.
 
@@ -137,6 +138,9 @@ The purpose of my project is to design a fictional gym website, to attract new m
 -   [W3C Markup Validator](https://validator.w3.org/) - One error appeared for the index file but it did not affect the end result whatsoever <img src= "assets/images/Error message.png">
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - No errors found.
 -   [Esprima Javascript Validator](https://esprima.org/demo/validate.html) - Code is valid.
+
+### Feature Testing
+
 
 ### Further Testing
 
