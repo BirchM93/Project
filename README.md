@@ -165,27 +165,21 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Content
 
--  https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn
+-  Home Page/Menu items  - [view]https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s 
 
--  https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s
+-  User Login Page - [view](https://www.youtube.com/watch?v=OWNxUVnY3pg)
 
--  https://www.youtube.com/watch?v=-03iS4qcr3k&t=1s
-
--  https://www.youtube.com/watch?v=EB9YL7l_Ei0&t=739s 
-
--  https://www.youtube.com/watch?v=OWNxUVnY3pg
-
--  Responsive Navbar was sourced from [View](https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s)
+-  Responsive Navbar/Hamburger menu - [view](https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s)
 
 ### Media
 
--   https://www.anytimefitness.com/training/ 
+-   [view]https://www.anytimefitness.com/training/ 
 
--   https://www.pexels.com/ 
+-   [view]https://www.pexels.com/ 
 
--   https://www.flaticon.com/ 
+-   [view]https://www.flaticon.com/ 
 
--   https://fontawesome.com/icons?d=gallery
+-   [view]https://fontawesome.com/icons?d=gallery
 
 ### Acknowledgements
 
