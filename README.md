@@ -200,6 +200,6 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My mentor Aaron for continuous helpful feedback.
 
--   Tutor support at Code Institute for their support.
+-   Tutor support at Code Institute for their continous support.
