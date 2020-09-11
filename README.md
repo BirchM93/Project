@@ -31,11 +31,15 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 -   ### Design
     -   #### Colour Scheme
-        -   The main colours used are seashell, red and grey.
+        -   Main colours include red, black, grey and seashell.
+        -   Red buttons.
+        -   Gold and red hover effects.
+
     -   #### Imagery
         -   Hero image is designed to be striking and catch the user's attention.
         -   Services section consist of 3 stock images with a brief description of each.
         -   Gallery section consists of images which displays the facilties of the gym.
+        -   User Login box consists of an avatar image.
 
 *   ### Wireframes
 
