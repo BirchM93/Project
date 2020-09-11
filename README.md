@@ -61,7 +61,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 -   #### Home Page   
     <img src = "assets/images/screenshots/homepage.png">  
 
-    -   Consists of a hero image along with a brief overview.
+    -   Consists of a hero image along with a short introductory.
 
 -   #### Services Page  
     <img src = "assets/images/screenshots/servicespage.png">
