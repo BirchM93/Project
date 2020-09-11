@@ -79,7 +79,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
     -   Created a contact form with a submit button.
     -   Users can also get in contact via social media links displayed with icons.
-    -   Opening hours, location and address are displayed along with icons.
+    -   Location, email and phone number of the gym are displayed with icons.
     -   Footer included at the bottom of the page.
 
 -   #### Login Page
