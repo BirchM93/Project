@@ -55,7 +55,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
     -   Allows users to click on each of the links in the navbar which will take them to the section they require.
     -   Navbar feature will show in all sections.
-    -   Login button will take you to the login page (more info on Login Page feature).
+    -   Login button will take you to the login page (more info on Login Page featured below).
     -   By clicking on the logo on the left hand side will bring you back to the home page.
 
 -   #### Home Page   
