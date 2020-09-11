@@ -154,6 +154,10 @@ The purpose of my project is to design a fictional gym website, to attract new m
 <img src="assets/images/screenshots/userlogin.png">
 <img src="assets/images/screenshots/backtohome.png">
 
+-  Checked for data validation.
+-  Login button was tested with a hover effect in which the button changes from red with white text to gold with black text.
+-  Back to Home link was tested with a hover feature to thats changes to a red colur and when clicked brings you back to the Main Page.
+
 ### Further Testing
 
 -   This website was tested on Google Chrome, Internet Explorer, Firefox and Safari browsers.
