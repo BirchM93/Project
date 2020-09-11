@@ -168,6 +168,10 @@ The purpose of my project is to design a fictional gym website, to attract new m
 -   Responsinsive on all device sizes.
 -   Friends and family members were asked to review the site and documentation to point out any user experience issues.
 
+### Known Bugs
+
+
+
 ## Deployment
 
 ### GitHub Pages
