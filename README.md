@@ -44,8 +44,8 @@ The purpose of my project is to design a fictional gym website, to attract new m
 *   ### Wireframes
 
     -   Home - 
-    -   Contact Us - [View]
-    -   Login Page - [View]()
+    -   Contact Us - [View](https://github.com/BirchM93/Project/blob/master/assets/wireframes/Contact%20Us%20Page.png)
+    -   Login Page - [View]
     -   Mobile - [View]()
 
 
@@ -124,8 +124,8 @@ The purpose of my project is to design a fictional gym website, to attract new m
     - Font Awesome was used to add icons for UX purposes.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Mockflow](https://mockflow.com) and [Balsamiq:](https://balsamiq.com/)
-    - Mockflow & Balsamiq were used to create wireframes during the design process.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create wireframes during the design process.
 
 
 ## Testing
