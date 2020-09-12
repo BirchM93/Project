@@ -43,7 +43,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 *   ### Wireframes
 
-    -   Home - 
+    -   Home - [View](https://github.com/BirchM93/Project/blob/master/assets/wireframes/Home%20Page.png)
     -   Contact Us - [View](https://github.com/BirchM93/Project/blob/master/assets/wireframes/Contact%20Us%20Page.png)
     -   Login Page - [View]
     -   Mobile - [View]()
