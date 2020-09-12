@@ -171,7 +171,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 ### Known Bugs
 
 -   On some mobile devices the grey banner does not take up the full screen.
-    -   A white gap down the whole right hand screen as a result.
+    -   A small white gap down the right hand side of the screen as a result.
 
 ## Deployment
 
