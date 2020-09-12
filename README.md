@@ -201,13 +201,13 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Content
 
--   [Home Page](https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn)
+-   Home Page - [link](https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn)
 
--   [Sections (Prices, Classes, Gallery, Contact Us)](https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s)
+-   Sections (Prices, Classes, Gallery, Contact Us) - [link](https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s)
                           
--   [User Login Page](https://www.youtube.com/watch?v=OWNxUVnY3pg)
+-   User Login Page - [link](https://www.youtube.com/watch?v=OWNxUVnY3pg)
 
--   [Responsive Navbar/Hamburger menu](https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s)
+-   Responsive Navbar/Hamburger menu - [link](https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s)
 
 ### Media
 
