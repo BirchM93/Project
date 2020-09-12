@@ -48,6 +48,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Login Page - [View]()
     -   Mobile - [View]()
 
+
 ## Features
 
 -   #### Navbar  
@@ -106,6 +107,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 -   Create User Account forms
 -   Pop up message indicating submission form was submitted
 
+
 ## Technologies Used
 
 ### Languages Used
@@ -124,6 +126,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Mockflow](https://mockflow.com) and [Balsamiq:](https://balsamiq.com/)
     - Mockflow & Balsamiq were used to create wireframes during the design process.
+
 
 ## Testing
 
@@ -172,6 +175,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 -   On some mobile devices the grey banner does not take up the full screen.
     -   A small white gap down the right hand side of the screen as a result.
+
 
 ## Deployment
 
