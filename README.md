@@ -44,7 +44,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 *   ### Wireframes
 
     -   Home - 
-    -   Contact Us - [View](<img src = "assets/images/screenshots/navbar.png">)
+    -   Contact Us - [View]
     -   Login Page - [View]()
     -   Mobile - [View]()
 
