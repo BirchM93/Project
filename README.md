@@ -211,7 +211,7 @@ The project was deployed to GitHub Pages using the following steps...
                           
 -   User Login Page - [link](https://www.youtube.com/watch?v=OWNxUVnY3pg)
 
--   Responsive Navbar/Hamburger menu - [link](https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s)
+-   Responsive Navbar/ Hamburger menu - [link](https://www.youtube.com/watch?v=At4B7A4GOPg&t=343s)
 
 ### Media
 
