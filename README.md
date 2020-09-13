@@ -207,7 +207,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 -   Home Page - [link](https://www.youtube.com/watch?v=kqs44JNz9gk&frags=pl%2Cwn)
 
--   Sections (Prices, Classes, Gallery, Contact Us) - [link](https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s)
+-   Sections (Prices, Classes, Gallery, Contact Us) & Media Queries - [link](https://www.youtube.com/watch?v=VncGOVEKSvA&t=273s)
                           
 -   User Login Page - [link](https://www.youtube.com/watch?v=OWNxUVnY3pg)
 
