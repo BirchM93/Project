@@ -21,7 +21,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -  As a current client, I want to be able to login and view my personal details and edit my profile.
     -  As a new visitor to the website, I want learn more about the gym.
     -  As a new and potential client, I want information about gym memberships rates.
-    -  As an interested current/or potential client, I want to follow the gym on social media, so I can keep up with their latest news.
+    -  As an interested, current/or potential client, I want to follow the gym on social media, so I can keep up with their latest news.
     -  As a potential/current client, I want to check the class timetables.
     -  As a new/current client, I want to know what classes are on offer.
     -  As a new and potential client, I want to get in contact with the gym, so that I can ask more specific questions with a representative of the gym.
