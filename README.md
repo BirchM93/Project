@@ -6,7 +6,7 @@ Milestone Project 1: User-Centric Frontend Development - Code Institute
 
 The purpose of my project is to design a fictional gym website, to attract new members and existing members.
 
-<h2 align="center"><img src="assets/images/RD.png"></h2>
+<h2 align="center"><img src="documentation/screenshots/RD.png"></h2>
 
 ## User Experience (UX)
 
@@ -52,7 +52,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 ## Features
 
 -   #### Navbar  
-    <img src = "assets/images/screenshots/navbar.png">
+    <img src = "documentation/screenshots/navbar.png">
 
     -   Allows users to click on each of the links in the navbar which will take them to the section they require.
     -   The navbar feature will show in all sections.
@@ -60,23 +60,23 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   By clicking on the logo on the left-hand side will bring you back to the home page.
 
 -   #### Home Page   
-    <img src = "assets/images/screenshots/homepage.png">  
+    <img src = "documentation/screenshots/homepage.png">  
 
     -   Consists of a hero image along with a short introductory.
 
 -   #### Services Page  
-    <img src = "assets/images/screenshots/servicespage.png">
+    <img src = "documentation/screenshots/servicespage.png">
 
     -   Consists of three stock images along with a brief description below each image.
     -   Overview of what services are provided.
 
 -   #### Price Packages Page
-    <img src = "assets/images/screenshots/pricespage.png">
+    <img src = "documentation/screenshots/pricespage.png">
 
     - Three separate packages are provided with a description in each along with a Join Now button feature. 
 
 -   #### Contact Us Page   
-    <img src = "assets/images/screenshots/contactuspage.png"> 
+    <img src = "documentation/screenshots/contactuspage.png"> 
 
     -   Created a contact form with a submit button.
     -   Users can also get in contact via social media links displayed with icons.
@@ -84,7 +84,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   Footer included at the bottom of the page.
 
 -   #### Login Page
-    <img src = "assets/images/screenshots/loginpage.png">
+    <img src = "documentation/screenshots/loginpage.png">
 
     -   Brings you to a new separate page when the login button is clicked on the main page.
     -   Consists of a login box, an avatar image at the top, and a Login button feature.
@@ -93,8 +93,8 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   By clicking "Back to Home" on the top left of the page you will be brought back to the home page.
 
 -   #### Hamburger menu
-    <img src = "assets/images/screenshots/mobileview1.png"> 
-    <img src = "assets/images/screenshots/mobileview2.png">
+    <img src = "documentation/screenshots/mobileview1.png"> 
+    <img src = "documentation/screenshots/mobileview2.png">
 
     -   The navigation menu will collapse into a hamburger menu icon on smaller screens such as tablets and mobile phones to make it user friendly and appealing.
     -   When the hamburger menu icon has clicked a drop-down menu will appear with the navbar items.
@@ -138,28 +138,28 @@ The purpose of my project is to design a fictional gym website, to attract new m
 ### Feature Testing
 
 #### Navbar 
-<img src="assets/images/screenshots/navbarhover.png">
-<img src="assets/images/screenshots/loginhover.png">
+<img src="documentation/screenshots/navbarhover.png">
+<img src="documentation/screenshots/loginhover.png">
 
 -   Navigation links were tested with a hover effect to ensure each menu item link changes to a red colour when the cursor points to each link.
 -   The Login Button at the end of the navigation bar was tested with a hover effect which was verified to ensure the text in the button changed from white to gold. 
 
 #### Price Packages
-<img src="assets/images/screenshots/pricebutton.png">
+<img src="documentation/screenshots/pricebutton.png">
 
 -   The join now button was tested with a hover effect in which the button changes from a red box with white text to a gold box with black text.
 
 #### Contact Us Form & Social Media 
-<img src="assets/images/screenshots/formfeatures.png">
-<img src="assets/images/screenshots/socialmedia.png">
+<img src="documentation/screenshots/formfeatures.png">
+<img src="documentation/screenshots/socialmedia.png">
 
 -   Contact Form was tested with a hover effect on the Send Message submit button in which the text changes from white to gold.
 -   The form was checked for data validation.
 -   The social media icons were tested with a hover effect in which the icons change from red to gold with a white border when the cursor points to each icon.
 
 #### User Login
-<img src="assets/images/screenshots/userlogin.png">
-<img src="assets/images/screenshots/backtohome.png">
+<img src="documentation/screenshots/userlogin.png">
+<img src="documentation/screenshots/backtohome.png">
 
 -  Checked for data validation.
 -  The login button was tested with a hover effect in which the button changes from red with white text to gold with black text.
