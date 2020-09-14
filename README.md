@@ -12,15 +12,15 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 -   ### Strategy
     The overall aim is to attract new members and retention of existing members.
-    The website will enable users to find important information with regards to the location, fees, opening hours, getting in contact and class timetables
+    The website will enable users to find important information with regards to the location, fees, opening hours, getting in contact, and class timetables
 
 -   ### User stories
 
     -  As a new visitor to the website, I want to easily navigate the site, so I can find what I need.
     -  As an interested client, I want an easy to fill in enquiry form, so I can make contact with the gym.
-    -  As a current client, I want to be able to login and view my personal details and edit my profile.
-    -  As a new visitor to the website, I want learn more about the gym.
-    -  As a new and potential client, I want information about gym memberships rates.
+    -  As a current client, I want to be able to log in and view my details and edit my profile.
+    -  As a new visitor to the website, I want to learn more about the gym.
+    -  As a new and potential client, I want information about gym membership rates.
     -  As an interested, current/or potential client, I want to follow the gym on social media, so I can keep up with their latest news.
     -  As a potential/current client, I want to check the class timetables.
     -  As a new/current client, I want to know what classes are on offer.
@@ -31,15 +31,15 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 -   ### Design
     -   #### Colour Scheme
-        -   Main colours include red, black, grey and seashell.
+        -   The main colours include red, black, grey, and seashell.
         -   Red buttons.
         -   Gold and red hover effects.
 
     -   #### Imagery
-        -   Hero image is designed to be striking and catch the user's attention.
-        -   Services section consist of 3 stock images with a brief description of each.
-        -   Gallery section consists of images which displays the facilties of the gym.
-        -   User Login box consists of an avatar image.
+        -   The hero image is designed to be striking and catch the user's attention.
+        -   The services section consists of 3 stock images with a brief description of each.
+        -   The Gallery section consists of images that displays the facilities of the gym.
+        -   The user login box consists of an avatar image.
 
 *   ### Wireframes
 
@@ -55,9 +55,9 @@ The purpose of my project is to design a fictional gym website, to attract new m
     <img src = "assets/images/screenshots/navbar.png">
 
     -   Allows users to click on each of the links in the navbar which will take them to the section they require.
-    -   Navbar feature will show in all sections.
-    -   Login button will take you to the login page (more info on Login Page featured below).
-    -   By clicking on the logo on the left hand side will bring you back to the home page.
+    -   The navbar feature will show in all sections.
+    -   The login button will take you to the login page (more info on Login Page featured below).
+    -   By clicking on the logo on the left-hand side will bring you back to the home page.
 
 -   #### Home Page   
     <img src = "assets/images/screenshots/homepage.png">  
@@ -73,21 +73,21 @@ The purpose of my project is to design a fictional gym website, to attract new m
 -   #### Price Packages Page
     <img src = "assets/images/screenshots/pricespage.png">
 
-    - Three sepeate packages provided with a description in each along with a Join Now button feature. 
+    - Three separate packages are provided with a description in each along with a Join Now button feature. 
 
 -   #### Contact Us Page   
     <img src = "assets/images/screenshots/contactuspage.png"> 
 
     -   Created a contact form with a submit button.
     -   Users can also get in contact via social media links displayed with icons.
-    -   Location, email and phone number of the gym are displayed with icons.
+    -   The location, email, and phone number of the gym are displayed with icons.
     -   Footer included at the bottom of the page.
 
 -   #### Login Page
     <img src = "assets/images/screenshots/loginpage.png">
 
-    -   Brings you to a new seperate page when login button is clicked on the main page.
-    -   Consists of a login box, an avatar image at the top and a Login button feature.
+    -   Brings you to a new separate page when the login button is clicked on the main page.
+    -   Consists of a login box, an avatar image at the top, and a Login button feature.
     -   Prompts existing members to login with their registered username and password.
     -   Existing members who don't have an account can click below the Login button to create a new account if they wish and also reset passwords if needed.
     -   By clicking "Back to Home" on the top left of the page you will be brought back to the home page.
@@ -96,8 +96,8 @@ The purpose of my project is to design a fictional gym website, to attract new m
     <img src = "assets/images/screenshots/mobileview1.png"> 
     <img src = "assets/images/screenshots/mobileview2.png">
 
-    -   Navigation menu will collapse into a hamburger menu icon on smaller screens such as tablets and mobile phones to make it user friendly and appealing.
-    -   When the hamburger menu icon is clicked a drop down menu will appear with the navbar items.
+    -   The navigation menu will collapse into a hamburger menu icon on smaller screens such as tablets and mobile phones to make it user friendly and appealing.
+    -   When the hamburger menu icon has clicked a drop-down menu will appear with the navbar items.
 
 ### Features Left to Implement
 
@@ -123,7 +123,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 1. [Font Awesome:](https://fontawesome.com/icons?d=gallery)
     - Font Awesome was used to add icons for UX purposes.
 1. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
+    - GitHub is used to store the project's code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create wireframes during the design process.
 
@@ -131,8 +131,8 @@ The purpose of my project is to design a fictional gym website, to attract new m
 ## Testing
 
 ### Code Validation
--   [W3C Markup Validator](https://validator.w3.org/) - One error appeared for the index file but it did not affect the end result whatsoever <img src= "assets/images/Error message.png">
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - No errors found.
+-   [W3C Markup Validator](https://validator.w3.org/) - One error appeared for the index file but it did not affect the result whatsoever <img src= "assets/images/Error message.png">
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - No errors were found.
 -   [Esprima Javascript Validator](https://esprima.org/demo/validate.html) - Code is valid.
 
 ### Feature Testing
@@ -147,14 +147,14 @@ The purpose of my project is to design a fictional gym website, to attract new m
 #### Price Packages
 <img src="assets/images/screenshots/pricebutton.png">
 
--   Join now button was tested with a hover effect in which the button changes from a red box with white text to a gold box with black text.
+-   The join now button was tested with a hover effect in which the button changes from a red box with white text to a gold box with black text.
 
 #### Contact Us Form & Social Media 
 <img src="assets/images/screenshots/formfeatures.png">
 <img src="assets/images/screenshots/socialmedia.png">
 
 -   Contact Form was tested with a hover effect on the Send Message submit button in which the text changes from white to gold.
--   Form was checked for data validation.
+-   The form was checked for data validation.
 -   The social media icons were tested with a hover effect in which the icons change from red to gold with a white border when the cursor points to each icon.
 
 #### User Login
@@ -162,19 +162,19 @@ The purpose of my project is to design a fictional gym website, to attract new m
 <img src="assets/images/screenshots/backtohome.png">
 
 -  Checked for data validation.
--  Login button was tested with a hover effect in which the button changes from red with white text to gold with black text.
--  Back to Home link was tested with a hover feature to thats changes to a red colur and when clicked brings you back to the Main Page.
+-  The login button was tested with a hover effect in which the button changes from red with white text to gold with black text.
+-  Back to Home link was tested with a hover feature that changes to a red colour and when clicked brings you back to the Main Page.
 
 ### Further Testing
 
--   This website was tested on Google Chrome, Internet Explorer, Firefox and Safari browsers.
--   Responsinsive on all device sizes.
+-   This website was tested on Google Chrome, Internet Explorer, Firefox, and Safari browsers.
+-   Responsive on all device sizes.
 -   Friends and family members were asked to review the site and documentation to point out any user experience issues.
 
 ### Known Bugs
 
--   On some mobile devices the grey banner does not take up the full screen.
-    -   A small white gap down the right hand side of the screen as a result.
+-   On some mobile devices, the grey banner does not take up the full screen.
+    -   A small white gap down the right-hand side of the screen as a result.
 
 
 ## Deployment
@@ -184,7 +184,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 The project was deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/BirchM93/Project)
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+2. At the top of the Repository (not top of page), locate the "Settings" button on the menu.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
