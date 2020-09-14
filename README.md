@@ -43,10 +43,10 @@ The purpose of my project is to design a fictional gym website, to attract new m
 
 *   ### Wireframes
 
-    -   Home - [View](https://github.com/BirchM93/Project/blob/master/assets/wireframes/Home%20Page.png)
-    -   Contact Us - [View](https://github.com/BirchM93/Project/blob/master/assets/wireframes/Contact%20Us%20Page.png)
-    -   Login Page - [View](https://github.com/BirchM93/Project/blob/master/assets/wireframes/Login%20Page.png)
-    -   Mobile - [View](https://github.com/BirchM93/Project/blob/master/assets/wireframes/Mobile%20View.png)
+    -   Home - [View](https://github.com/BirchM93/Project/blob/master/documentation/wireframes/HomePage.png)
+    -   Contact Us - [View](https://github.com/BirchM93/Project/blob/master/documentation/wireframes/ContactUs.png)
+    -   Login Page - [View](https://github.com/BirchM93/Project/blob/master/documentation/wireframes/LoginPage.png)
+    -   Mobile - [View](https://github.com/BirchM93/Project/blob/master/documentation/wireframes/MobileView.png)
 
 
 ## Features
