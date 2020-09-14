@@ -38,7 +38,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
     -   #### Imagery
         -   The hero image is designed to be striking and catch the user's attention.
         -   The services section consists of 3 stock images with a brief description of each.
-        -   The Gallery section consists of images that displays the facilities of the gym.
+        -   The Gallery section consists of images that display the facilities of the gym.
         -   The user login box consists of an avatar image.
 
 *   ### Wireframes
@@ -235,4 +235,4 @@ The project was deployed to GitHub Pages using the following steps...
 
 -   My mentor Aaron for continuous helpful feedback.
 
--   Tutor support at Code Institute for their continous support.
+-   Tutor support at Code Institute for their continuous support.
