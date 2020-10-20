@@ -63,16 +63,17 @@ body {
   color: #fb2525;
 }
 
-.navbar-links li a .btn {
+.navbar-links li .btn {
   background-color: #fb2525;
   color: seashell;
   padding: 0.4rem 1rem;
+  margin: 20px;
   border: none;
   border-radius: 10px;
   cursor: pointer;
 }
 
-.navbar-links li a .btn:hover {
+.navbar-links li .btn:hover {
   color: gold;
 }
 
