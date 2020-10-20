@@ -131,7 +131,7 @@ The purpose of my project is to design a fictional gym website, to attract new m
 ## Testing
 
 ### Code Validation
--   [W3C Markup Validator](https://validator.w3.org/) - One error appeared for the index file but it did not affect the result whatsoever <img src= "assets/images/Error message.png">
+-   [W3C Markup Validator](https://validator.w3.org/) - No errors were found.
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - No errors were found.
 -   [Esprima Javascript Validator](https://esprima.org/demo/validate.html) - Code is valid.
 
